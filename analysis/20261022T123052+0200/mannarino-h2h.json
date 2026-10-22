@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2026-5014-MS078-R128-BG23-ME82",
+    "event": "2026-5014",
+    "round": "R128",
+    "winner": "ME82",
+    "loser": "BG23",
+    "score": "6-3 2-2",
+    "status": "Aborted",
+    "date": "2026-10-05",
+    "name": "Shanghai",
+    "surface": "Hard"
+  },
+  {
+    "id": "2024-3503-MS008-R16-BG23-ME82",
+    "event": "2024-3503",
+    "round": "R16",
+    "winner": "ME82",
+    "loser": "BG23",
+    "score": "7-6(5) 3-6 6-3",
+    "status": "Completed",
+    "date": "2024-09-09",
+    "name": "Rennes",
+    "surface": "Hard"
+  },
+  {
+    "id": "2021-352-MS034-R64-BG23-ME82",
+    "event": "2021-352",
+    "round": "R64",
+    "winner": "ME82",
+    "loser": "BG23",
+    "score": "6-2 6-4",
+    "status": "Completed",
+    "date": "2021-11-01",
+    "name": "Paris",
+    "surface": "Hard"
+  },
+  {
+    "id": "2017-7434-MS017-R32-BG23-ME82",
+    "event": "2017-7434",
+    "round": "R32",
+    "winner": "BG23",
+    "loser": "ME82",
+    "score": "7-6(7) 7-6(3)",
+    "status": "Completed",
+    "date": "2017-02-06",
+    "name": "Sofia",
+    "surface": "Hard"
+  }
+]

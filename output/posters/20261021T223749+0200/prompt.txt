@@ -1,0 +1,50 @@
+Use case: infographic-diagram.
+Create one finished, high-quality Swedish tennis editorial poster, portrait format about 1536 by 2048 pixels. This is the actual poster artwork, no frame, no surrounding room or mockup. Professional sports magazine art direction with strong typography, generous margins, excellent readability and clear hierarchy. Dark indoor hardcourt background, subtle perspective court lines, a small photographic tennis ball detail, natural tennis-ball yellow accents, warm white typography. Three large beautifully aligned horizontal editorial sections. Small tasteful tennis action silhouettes may be used as background art but no invented portraits and no faces. Crisp typographic design, neither a website nor a betting app screenshot. Very large odds, spacious text. Ordinary Swedish title case, not all caps. All text must be accurate Swedish with accents and decimal commas. Do not add any claims of guaranteed winnings, any percentages, bookmaker logos, GPT data, or additional names/numbers.
+
+The headline and introductory text must read exactly:
+"Tre spel. 300 kr."
+"Bokförda pappersspel"
+"100 kr per match"
+
+Place the three match sections in this chronological order. Clearly distinguish the chosen player from the opponent using large chosen-player name and smaller "mot..." line. Each section has a large "Låst odds" number, smaller TA number, 100 kr stake, event and date, and a clearly readable status line.
+
+Section 1, exact content:
+"Brandon Nakashima"
+"mot Kyrian Jacquet"
+"Lyon · 22 oktober · 20.10"
+"Låst odds 1,50"
+"TA 1,28"
+"Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+Section 2:
+"Adrian Mannarino"
+"mot Nikoloz Basilashvili"
+"Almaty · 23 oktober · 08.30"
+"Låst odds 2,17"
+"TA 1,62"
+"Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+Section 3:
+"Francisco Cerúndolo"
+"mot Clément Chidekh"
+"Bryssel · 23 oktober · 13.30"
+"Låst odds 1,58"
+"TA 1,21"
+"Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+Distinct, readable financial summary strip at bottom:
+"Öppen insats 300 kr"
+"Realiserat netto 0 kr"
+"0 avgjorda spel"
+
+Fine print, still comfortably legible, exactly:
+"Kontrollerat 21 oktober 2026 kl. 22.37"
+"Svensk tid. Starttiderna är preliminära."
+"TA-oddsen inkluderar redan 5 % marginal."
+"Simulerade spel – inga riktiga pengar satsade."
+"Källor: Svenska Spels leverantörsflöde och direkt MariaDB."
+
+Keep every section consistent, make all numbers and selected player names immediately scannable. The main aesthetic should be a striking, shareable tennis poster with beautiful typesetting. Prioritize accuracy and legibility over decorative detail. No other text.

@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1029577805,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-22T08:00:00Z",
+    "player": {
+      "id": "M0FH",
+      "name": "Tomas Machac",
+      "rank": 72,
+      "age": 26,
+      "elo_rank_hard": 1755
+    },
+    "opponent": {
+      "id": "KE29",
+      "name": "Karen Khachanov",
+      "rank": 25,
+      "age": 30,
+      "elo_rank_hard": 1810
+    },
+    "ss": 3.05,
+    "ta": 2.26,
+    "p": 0.42150324765525726,
+    "ta_ev": 0.28558490534853465,
+    "gap": 0.3495575221238938,
+    "outcome_id": 4383909144,
+    "offer_id": 2706687719
+  },
+  {
+    "id": 1029578799,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-23T06:30:00Z",
+    "player": {
+      "id": "ME82",
+      "name": "Adrian Mannarino",
+      "rank": 79,
+      "age": 38,
+      "elo_rank_hard": 1664
+    },
+    "opponent": {
+      "id": "BG23",
+      "name": "Nikoloz Basilashvili",
+      "rank": 128,
+      "age": 34,
+      "elo_rank_hard": 1603
+    },
+    "ss": 2.17,
+    "ta": 1.62,
+    "p": 0.5868950233791,
+    "ta_ev": 0.27356220073264703,
+    "gap": 0.3395061728395061,
+    "outcome_id": 4384222196,
+    "offer_id": 2706810323
+  },
+  {
+    "id": 1029581066,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-23T11:30:00Z",
+    "player": {
+      "id": "C0AU",
+      "name": "Francisco Cerundolo",
+      "rank": 21,
+      "age": 28,
+      "elo_rank_hard": 1840
+    },
+    "opponent": {
+      "id": "C0BH",
+      "name": "Clement Chidekh",
+      "rank": 152,
+      "age": 25,
+      "elo_rank_hard": 1616
+    },
+    "ss": 1.58,
+    "ta": 1.21,
+    "p": 0.784053683887815,
+    "ta_ev": 0.23880482054274776,
+    "gap": 0.30578512396694224,
+    "outcome_id": 4384366701,
+    "offer_id": 2706871062
+  },
+  {
+    "id": 1029578794,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-22T15:00:00Z",
+    "player": {
+      "id": "D923",
+      "name": "Damir Dzumhur",
+      "rank": 83,
+      "age": 34,
+      "elo_rank_hard": 1611
+    },
+    "opponent": {
+      "id": "BU13",
+      "name": "Zizou Bergs",
+      "rank": 41,
+      "age": 27,
+      "elo_rank_hard": 1755
+    },
+    "ss": 3.8,
+    "ta": 3.13,
+    "p": 0.3038712295704002,
+    "ta_ev": 0.15471067236752067,
+    "gap": 0.21405750798722045,
+    "outcome_id": 4384193023,
+    "offer_id": 2706776024
+  },
+  {
+    "id": 1029569496,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T11:20:00Z",
+    "player": {
+      "id": "AE14",
+      "name": "Daniel Altmaier",
+      "rank": 65,
+      "age": 28,
+      "elo_rank_hard": 1627
+    },
+    "opponent": {
+      "id": "GH92",
+      "name": "Borna Gojo",
+      "rank": 148,
+      "age": 28,
+      "elo_rank_hard": 1598
+    },
+    "ss": 2.12,
+    "ta": 1.76,
+    "p": 0.5416377027147634,
+    "ta_ev": 0.14827192975529857,
+    "gap": 0.20454545454545459,
+    "outcome_id": 4383154963,
+    "offer_id": 2706512489
+  },
+  {
+    "id": 1029571655,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T18:10:00Z",
+    "player": {
+      "id": "N0AE",
+      "name": "Brandon Nakashima",
+      "rank": 17,
+      "age": 25,
+      "elo_rank_hard": 1868
+    },
+    "opponent": {
+      "id": "J0AZ",
+      "name": "Kyrian Jacquet",
+      "rank": 85,
+      "age": 25,
+      "elo_rank_hard": 1682
+    },
+    "ss": 1.5,
+    "ta": 1.28,
+    "p": 0.7447304068650347,
+    "ta_ev": 0.117095610297552,
+    "gap": 0.171875,
+    "outcome_id": 4383536575,
+    "offer_id": 2706575167
+  },
+  {
+    "id": 1029570407,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T12:00:00Z",
+    "player": {
+      "id": "VA25",
+      "name": "Valentin Vacherot",
+      "rank": 32,
+      "age": 27,
+      "elo_rank_hard": 1831
+    },
+    "opponent": {
+      "id": "V0DZ",
+      "name": "Luca Van Assche",
+      "rank": 48,
+      "age": 22,
+      "elo_rank_hard": 1709
+    },
+    "ss": 1.63,
+    "ta": 1.42,
+    "p": 0.6686949563073317,
+    "ta_ev": 0.08997277878095056,
+    "gap": 0.147887323943662,
+    "outcome_id": 4383152009,
+    "offer_id": 2706487147
+  },
+  {
+    "id": 1029577117,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-22T06:30:00Z",
+    "player": {
+      "id": "A0GC",
+      "name": "Terence Atmane",
+      "rank": 98,
+      "age": 24,
+      "elo_rank_hard": 1683
+    },
+    "opponent": {
+      "id": "B0GG",
+      "name": "Mattia Bellucci",
+      "rank": 68,
+      "age": 25,
+      "elo_rank_hard": 1662
+    },
+    "ss": 2.04,
+    "ta": 1.8,
+    "p": 0.5301846800039021,
+    "ta_ev": 0.08157674720796027,
+    "gap": 0.1333333333333333,
+    "outcome_id": 4383912524,
+    "offer_id": 2706701891
+  },
+  {
+    "id": 1029567104,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-22T14:30:00Z",
+    "player": {
+      "id": "M0CI",
+      "name": "Fabian Marozsan",
+      "rank": 64,
+      "age": 27,
+      "elo_rank_hard": 1699
+    },
+    "opponent": {
+      "id": "BK92",
+      "name": "Alexander Bublik",
+      "rank": 19,
+      "age": 29,
+      "elo_rank_hard": 1837
+    },
+    "ss": 3.35,
+    "ta": 3.06,
+    "p": 0.3112264313312868,
+    "ta_ev": 0.04260854495981081,
+    "gap": 0.09477124183006547,
+    "outcome_id": 4383171436,
+    "offer_id": 2706509612
+  },
+  {
+    "id": 1029569950,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-21T19:00:00Z",
+    "player": {
+      "id": "PL56",
+      "name": "Tommy Paul",
+      "rank": 15,
+      "age": 29,
+      "elo_rank_hard": 1886
+    },
+    "opponent": {
+      "id": "BM95",
+      "name": "Benjamin Bonzi",
+      "rank": 100,
+      "age": 30,
+      "elo_rank_hard": 1690
+    },
+    "ss": 1.37,
+    "ta": 1.26,
+    "p": 0.7555188820711969,
+    "ta_ev": 0.03506086843753975,
+    "gap": 0.08730158730158744,
+    "outcome_id": 4383159883,
+    "offer_id": 2706492058
+  },
+  {
+    "id": 1029566159,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T13:10:00Z",
+    "player": {
+      "id": "FB98",
+      "name": "Taylor Fritz",
+      "rank": 14,
+      "age": 28,
+      "elo_rank_hard": 1861
+    },
+    "opponent": {
+      "id": "H996",
+      "name": "Pierre-Hugues Herbert",
+      "rank": 290,
+      "age": 35,
+      "elo_rank_hard": 1536
+    },
+    "ss": 1.17,
+    "ta": 1.1,
+    "p": 0.8665566437895401,
+    "ta_ev": 0.013871273233761805,
+    "gap": 0.06363636363636349,
+    "outcome_id": 4383177179,
+    "offer_id": 2706466393
+  },
+  {
+    "id": 1029581167,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-23T06:30:00Z",
+    "player": {
+      "id": "TE51",
+      "name": "Stefanos Tsitsipas",
+      "rank": 39,
+      "age": 28,
+      "elo_rank_hard": 1855
+    },
+    "opponent": {
+      "id": "D994",
+      "name": "James Duckworth",
+      "rank": 73,
+      "age": 34,
+      "elo_rank_hard": 1625
+    },
+    "ss": 1.26,
+    "ta": 1.21,
+    "p": 0.7898441797581306,
+    "ta_ev": -0.00479633350475539,
+    "gap": 0.04132231404958686,
+    "outcome_id": 4384356693,
+    "offer_id": 2706853314
+  },
+  {
+    "id": 1029564574,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-22T09:10:00Z",
+    "player": {
+      "id": "MM58",
+      "name": "Daniil Medvedev",
+      "rank": 5,
+      "age": 30,
+      "elo_rank_hard": 1955
+    },
+    "opponent": {
+      "id": "SY67",
+      "name": "Sho Shimabukuro",
+      "rank": 109,
+      "age": 29,
+      "elo_rank_hard": 1543
+    },
+    "ss": 1.07,
+    "ta": 1.04,
+    "p": 0.9146407579005127,
+    "ta_ev": -0.021334389046451352,
+    "gap": 0.028846153846153966,
+    "outcome_id": 4382438207,
+    "offer_id": 2706270804
+  },
+  {
+    "id": 1029580815,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T17:00:00Z",
+    "player": {
+      "id": "C0E9",
+      "name": "Flavio Cobolli",
+      "rank": 6,
+      "age": 24,
+      "elo_rank_hard": 1790
+    },
+    "opponent": {
+      "id": "W367",
+      "name": "Stan Wawrinka",
+      "rank": 140,
+      "age": 41,
+      "elo_rank_hard": 1638
+    },
+    "ss": 1.38,
+    "ta": 1.35,
+    "p": 0.7057813597120025,
+    "ta_ev": -0.026021723597436597,
+    "gap": 0.022222222222222143,
+    "outcome_id": 4384376593,
+    "offer_id": 2706844144
+  },
+  {
+    "id": 1029570747,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-22T11:30:00Z",
+    "player": {
+      "id": "L0BV",
+      "name": "Jiri Lehecka",
+      "rank": 20,
+      "age": 24,
+      "elo_rank_hard": 1921
+    },
+    "opponent": {
+      "id": "C0JP",
+      "name": "Raphael Collignon",
+      "rank": 55,
+      "age": 24,
+      "elo_rank_hard": 1732
+    },
+    "ss": 1.29,
+    "ta": 1.27,
+    "p": 0.7479995411960544,
+    "ta_ev": -0.03508059185708978,
+    "gap": 0.015748031496062964,
+    "outcome_id": 4383145571,
+    "offer_id": 2706495195
+  },
+  {
+    "id": 1029570747,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-22T11:30:00Z",
+    "player": {
+      "id": "C0JP",
+      "name": "Raphael Collignon",
+      "rank": 55,
+      "age": 24,
+      "elo_rank_hard": 1732
+    },
+    "opponent": {
+      "id": "L0BV",
+      "name": "Jiri Lehecka",
+      "rank": 20,
+      "age": 24,
+      "elo_rank_hard": 1921
+    },
+    "ss": 3.65,
+    "ta": 3.78,
+    "p": 0.2520004588039456,
+    "ta_ev": -0.08019832536559857,
+    "gap": -0.03439153439153442,
+    "outcome_id": 4383145570,
+    "offer_id": 2706495195
+  },
+  {
+    "id": 1029567104,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-22T14:30:00Z",
+    "player": {
+      "id": "BK92",
+      "name": "Alexander Bublik",
+      "rank": 19,
+      "age": 29,
+      "elo_rank_hard": 1837
+    },
+    "opponent": {
+      "id": "M0CI",
+      "name": "Fabian Marozsan",
+      "rank": 64,
+      "age": 27,
+      "elo_rank_hard": 1699
+    },
+    "ss": 1.32,
+    "ta": 1.38,
+    "p": 0.6887735686687132,
+    "ta_ev": -0.09081888935729854,
+    "gap": -0.04347826086956508,
+    "outcome_id": 4383171435,
+    "offer_id": 2706509612
+  },
+  {
+    "id": 1029580815,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T17:00:00Z",
+    "player": {
+      "id": "W367",
+      "name": "Stan Wawrinka",
+      "rank": 140,
+      "age": 41,
+      "elo_rank_hard": 1638
+    },
+    "opponent": {
+      "id": "C0E9",
+      "name": "Flavio Cobolli",
+      "rank": 6,
+      "age": 24,
+      "elo_rank_hard": 1790
+    },
+    "ss": 3.0,
+    "ta": 3.24,
+    "p": 0.2942186402879975,
+    "ta_ev": -0.11734407913600753,
+    "gap": -0.07407407407407418,
+    "outcome_id": 4384376594,
+    "offer_id": 2706844144
+  },
+  {
+    "id": 1029578794,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-22T15:00:00Z",
+    "player": {
+      "id": "BU13",
+      "name": "Zizou Bergs",
+      "rank": 41,
+      "age": 27,
+      "elo_rank_hard": 1755
+    },
+    "opponent": {
+      "id": "D923",
+      "name": "Damir Dzumhur",
+      "rank": 83,
+      "age": 34,
+      "elo_rank_hard": 1611
+    },
+    "ss": 1.26,
+    "ta": 1.37,
+    "p": 0.6961287704295998,
+    "ta_ev": -0.12287774925870432,
+    "gap": -0.08029197080291972,
+    "outcome_id": 4384193024,
+    "offer_id": 2706776024
+  },
+  {
+    "id": 1029577117,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-22T06:30:00Z",
+    "player": {
+      "id": "B0GG",
+      "name": "Mattia Bellucci",
+      "rank": 68,
+      "age": 25,
+      "elo_rank_hard": 1662
+    },
+    "opponent": {
+      "id": "A0GC",
+      "name": "Terence Atmane",
+      "rank": 98,
+      "age": 24,
+      "elo_rank_hard": 1683
+    },
+    "ss": 1.77,
+    "ta": 2.03,
+    "p": 0.469815319996098,
+    "ta_ev": -0.1684268836069065,
+    "gap": -0.1280788177339901,
+    "outcome_id": 4383912523,
+    "offer_id": 2706701891
+  },
+  {
+    "id": 1029581167,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-23T06:30:00Z",
+    "player": {
+      "id": "D994",
+      "name": "James Duckworth",
+      "rank": 73,
+      "age": 34,
+      "elo_rank_hard": 1625
+    },
+    "opponent": {
+      "id": "TE51",
+      "name": "Stefanos Tsitsipas",
+      "rank": 39,
+      "age": 28,
+      "elo_rank_hard": 1855
+    },
+    "ss": 3.9,
+    "ta": 4.53,
+    "p": 0.2101558202418694,
+    "ta_ev": -0.18039230105670934,
+    "gap": -0.13907284768211925,
+    "outcome_id": 4384356694,
+    "offer_id": 2706853314
+  },
+  {
+    "id": 1029577805,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-22T08:00:00Z",
+    "player": {
+      "id": "KE29",
+      "name": "Karen Khachanov",
+      "rank": 25,
+      "age": 30,
+      "elo_rank_hard": 1810
+    },
+    "opponent": {
+      "id": "M0FH",
+      "name": "Tomas Machac",
+      "rank": 72,
+      "age": 26,
+      "elo_rank_hard": 1755
+    },
+    "ss": 1.38,
+    "ta": 1.65,
+    "p": 0.5784967523447427,
+    "ta_ev": -0.20167448176425506,
+    "gap": -0.1636363636363637,
+    "outcome_id": 4383909145,
+    "offer_id": 2706687719
+  },
+  {
+    "id": 1029569496,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T11:20:00Z",
+    "player": {
+      "id": "GH92",
+      "name": "Borna Gojo",
+      "rank": 148,
+      "age": 28,
+      "elo_rank_hard": 1598
+    },
+    "opponent": {
+      "id": "AE14",
+      "name": "Daniel Altmaier",
+      "rank": 65,
+      "age": 28,
+      "elo_rank_hard": 1627
+    },
+    "ss": 1.72,
+    "ta": 2.08,
+    "p": 0.45836229728523653,
+    "ta_ev": -0.21161684866939323,
+    "gap": -0.17307692307692313,
+    "outcome_id": 4383154962,
+    "offer_id": 2706512489
+  },
+  {
+    "id": 1029569950,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-21T19:00:00Z",
+    "player": {
+      "id": "BM95",
+      "name": "Benjamin Bonzi",
+      "rank": 100,
+      "age": 30,
+      "elo_rank_hard": 1690
+    },
+    "opponent": {
+      "id": "PL56",
+      "name": "Tommy Paul",
+      "rank": 15,
+      "age": 29,
+      "elo_rank_hard": 1886
+    },
+    "ss": 3.1,
+    "ta": 3.9,
+    "p": 0.24448111792880314,
+    "ta_ev": -0.24210853442071023,
+    "gap": -0.20512820512820507,
+    "outcome_id": 4383159882,
+    "offer_id": 2706492058
+  },
+  {
+    "id": 1029570407,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T12:00:00Z",
+    "player": {
+      "id": "V0DZ",
+      "name": "Luca Van Assche",
+      "rank": 48,
+      "age": 22,
+      "elo_rank_hard": 1709
+    },
+    "opponent": {
+      "id": "VA25",
+      "name": "Valentin Vacherot",
+      "rank": 32,
+      "age": 27,
+      "elo_rank_hard": 1831
+    },
+    "ss": 2.28,
+    "ta": 2.87,
+    "p": 0.33130504369266833,
+    "ta_ev": -0.24462450038071626,
+    "gap": -0.20557491289198615,
+    "outcome_id": 4383152008,
+    "offer_id": 2706487147
+  },
+  {
+    "id": 1029564574,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-22T09:10:00Z",
+    "player": {
+      "id": "SY67",
+      "name": "Sho Shimabukuro",
+      "rank": 109,
+      "age": 29,
+      "elo_rank_hard": 1543
+    },
+    "opponent": {
+      "id": "MM58",
+      "name": "Daniil Medvedev",
+      "rank": 5,
+      "age": 30,
+      "elo_rank_hard": 1955
+    },
+    "ss": 8.5,
+    "ta": 11.16,
+    "p": 0.08535924209948731,
+    "ta_ev": -0.2744464421543579,
+    "gap": -0.2383512544802867,
+    "outcome_id": 4382438208,
+    "offer_id": 2706270804
+  },
+  {
+    "id": 1029578799,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-23T06:30:00Z",
+    "player": {
+      "id": "BG23",
+      "name": "Nikoloz Basilashvili",
+      "rank": 128,
+      "age": 34,
+      "elo_rank_hard": 1603
+    },
+    "opponent": {
+      "id": "ME82",
+      "name": "Adrian Mannarino",
+      "rank": 79,
+      "age": 38,
+      "elo_rank_hard": 1664
+    },
+    "ss": 1.68,
+    "ta": 2.31,
+    "p": 0.41310497662089996,
+    "ta_ev": -0.3059836392768881,
+    "gap": -0.2727272727272728,
+    "outcome_id": 4384222195,
+    "offer_id": 2706810323
+  },
+  {
+    "id": 1029566159,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T13:10:00Z",
+    "player": {
+      "id": "H996",
+      "name": "Pierre-Hugues Herbert",
+      "rank": 290,
+      "age": 35,
+      "elo_rank_hard": 1536
+    },
+    "opponent": {
+      "id": "FB98",
+      "name": "Taylor Fritz",
+      "rank": 14,
+      "age": 28,
+      "elo_rank_hard": 1861
+    },
+    "ss": 5.1,
+    "ta": 7.14,
+    "p": 0.1334433562104599,
+    "ta_ev": -0.3194388833266545,
+    "gap": -0.2857142857142857,
+    "outcome_id": 4383177178,
+    "offer_id": 2706466393
+  },
+  {
+    "id": 1029571655,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-22T18:10:00Z",
+    "player": {
+      "id": "J0AZ",
+      "name": "Kyrian Jacquet",
+      "rank": 85,
+      "age": 25,
+      "elo_rank_hard": 1682
+    },
+    "opponent": {
+      "id": "N0AE",
+      "name": "Brandon Nakashima",
+      "rank": 17,
+      "age": 25,
+      "elo_rank_hard": 1868
+    },
+    "ss": 2.55,
+    "ta": 3.73,
+    "p": 0.25526959313496533,
+    "ta_ev": -0.3490625375058385,
+    "gap": -0.3163538873994639,
+    "outcome_id": 4383536574,
+    "offer_id": 2706575167
+  },
+  {
+    "id": 1029581066,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-23T11:30:00Z",
+    "player": {
+      "id": "C0BH",
+      "name": "Clement Chidekh",
+      "rank": 152,
+      "age": 25,
+      "elo_rank_hard": 1616
+    },
+    "opponent": {
+      "id": "C0AU",
+      "name": "Francisco Cerundolo",
+      "rank": 21,
+      "age": 28,
+      "elo_rank_hard": 1840
+    },
+    "ss": 2.38,
+    "ta": 4.41,
+    "p": 0.21594631611218496,
+    "ta_ev": -0.48604776765299984,
+    "gap": -0.46031746031746035,
+    "outcome_id": 4384366702,
+    "offer_id": 2706871062
+  }
+]

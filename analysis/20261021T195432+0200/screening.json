@@ -1,0 +1,898 @@
+[
+  {
+    "id": 1029577805,
+    "start": "2026-10-22T08:00:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Tomas Machac",
+      "odds": 3.05,
+      "id": "M0FH"
+    },
+    "playerB": {
+      "name": "Karen Khachanov",
+      "odds": 1.38,
+      "id": "KE29"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Tomas Machac",
+    "player_id": "M0FH",
+    "opponent_id": "KE29",
+    "ss": 3.05,
+    "ta": 2.26,
+    "gpt": 2.57,
+    "p": 0.42150324765525726,
+    "ev": 0.28558490534853465
+  },
+  {
+    "id": 1029578799,
+    "start": "2026-10-23T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Nikoloz Basilashvili",
+      "odds": 1.68,
+      "id": "BG23"
+    },
+    "playerB": {
+      "name": "Adrian Mannarino",
+      "odds": 2.17,
+      "id": "ME82"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Adrian Mannarino",
+    "player_id": "ME82",
+    "opponent_id": "BG23",
+    "ss": 2.17,
+    "ta": 1.62,
+    "gpt": 1.71,
+    "p": 0.5868950233791,
+    "ev": 0.27356220073264703
+  },
+  {
+    "id": 1029581066,
+    "start": "2026-10-23T11:30:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Clement Chidekh",
+      "odds": 2.38,
+      "id": "C0BH"
+    },
+    "playerB": {
+      "name": "Francisco Cerundolo",
+      "odds": 1.58,
+      "id": "C0AU"
+    },
+    "surface": "Hard",
+    "event_id": "2026-7485",
+    "pick": "Francisco Cerundolo",
+    "player_id": "C0AU",
+    "opponent_id": "C0BH",
+    "ss": 1.58,
+    "ta": 1.21,
+    "gpt": 1.25,
+    "p": 0.784053683887815,
+    "ev": 0.23880482054274776
+  },
+  {
+    "id": 1029578794,
+    "start": "2026-10-22T15:00:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Damir Dzumhur",
+      "odds": 3.8,
+      "id": "D923"
+    },
+    "playerB": {
+      "name": "Zizou Bergs",
+      "odds": 1.26,
+      "id": "BU13"
+    },
+    "surface": "Hard",
+    "event_id": "2026-7485",
+    "pick": "Damir Dzumhur",
+    "player_id": "D923",
+    "opponent_id": "BU13",
+    "ss": 3.8,
+    "ta": 3.13,
+    "gpt": 2.8,
+    "p": 0.3038712295704002,
+    "ev": 0.15471067236752067
+  },
+  {
+    "id": 1029569496,
+    "start": "2026-10-22T11:20:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Borna Gojo",
+      "odds": 1.72,
+      "id": "GH92"
+    },
+    "playerB": {
+      "name": "Daniel Altmaier",
+      "odds": 2.12,
+      "id": "AE14"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Daniel Altmaier",
+    "player_id": "AE14",
+    "opponent_id": "GH92",
+    "ss": 2.12,
+    "ta": 1.76,
+    "gpt": 1.7,
+    "p": 0.5416377027147634,
+    "ev": 0.14827192975529857
+  },
+  {
+    "id": 1029571655,
+    "start": "2026-10-22T18:10:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Kyrian Jacquet",
+      "odds": 2.55,
+      "id": "J0AZ"
+    },
+    "playerB": {
+      "name": "Brandon Nakashima",
+      "odds": 1.5,
+      "id": "N0AE"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Brandon Nakashima",
+    "player_id": "N0AE",
+    "opponent_id": "J0AZ",
+    "ss": 1.5,
+    "ta": 1.28,
+    "gpt": 1.33,
+    "p": 0.7447304068650347,
+    "ev": 0.117095610297552
+  },
+  {
+    "id": 1029570407,
+    "start": "2026-10-22T12:00:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Valentin Vacherot",
+      "odds": 1.63,
+      "id": "VA25"
+    },
+    "playerB": {
+      "name": "Luca Van Assche",
+      "odds": 2.28,
+      "id": "V0DZ"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Valentin Vacherot",
+    "player_id": "VA25",
+    "opponent_id": "V0DZ",
+    "ss": 1.63,
+    "ta": 1.42,
+    "gpt": 1.54,
+    "p": 0.6686949563073317,
+    "ev": 0.08997277878095056
+  },
+  {
+    "id": 1029577117,
+    "start": "2026-10-22T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Terence Atmane",
+      "odds": 2.04,
+      "id": "A0GC"
+    },
+    "playerB": {
+      "name": "Mattia Bellucci",
+      "odds": 1.77,
+      "id": "B0GG"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Terence Atmane",
+    "player_id": "A0GC",
+    "opponent_id": "B0GG",
+    "ss": 2.04,
+    "ta": 1.8,
+    "gpt": 1.94,
+    "p": 0.5301846800039021,
+    "ev": 0.08157674720796027
+  },
+  {
+    "id": 1029567104,
+    "start": "2026-10-22T14:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Alexander Bublik",
+      "odds": 1.32,
+      "id": "BK92"
+    },
+    "playerB": {
+      "name": "Fabian Marozsan",
+      "odds": 3.35,
+      "id": "M0CI"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Fabian Marozsan",
+    "player_id": "M0CI",
+    "opponent_id": "BK92",
+    "ss": 3.35,
+    "ta": 3.06,
+    "gpt": 2.99,
+    "p": 0.3112264313312868,
+    "ev": 0.04260854495981081
+  },
+  {
+    "id": 1029567299,
+    "start": "2026-10-21T18:00:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Gauthier Onclin",
+      "odds": 3.4,
+      "id": "O0A2"
+    },
+    "playerB": {
+      "name": "Jan-Lennard Struff",
+      "odds": 1.32,
+      "id": "SL28"
+    },
+    "surface": "Hard",
+    "event_id": "2026-7485",
+    "pick": "Jan-Lennard Struff",
+    "player_id": "SL28",
+    "opponent_id": "O0A2",
+    "ss": 1.32,
+    "ta": 1.21,
+    "gpt": 1.29,
+    "p": 0.7879267680774021,
+    "ev": 0.04006333386217098
+  },
+  {
+    "id": 1029569950,
+    "start": "2026-10-21T18:10:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Benjamin Bonzi",
+      "odds": 3.1,
+      "id": "BM95"
+    },
+    "playerB": {
+      "name": "Tommy Paul",
+      "odds": 1.37,
+      "id": "PL56"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Tommy Paul",
+    "player_id": "PL56",
+    "opponent_id": "BM95",
+    "ss": 1.37,
+    "ta": 1.26,
+    "gpt": 1.27,
+    "p": 0.7555188820711969,
+    "ev": 0.03506086843753975
+  },
+  {
+    "id": 1029566159,
+    "start": "2026-10-22T13:10:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Pierre-Hugues Herbert",
+      "odds": 5.1,
+      "id": "H996"
+    },
+    "playerB": {
+      "name": "Taylor Fritz",
+      "odds": 1.17,
+      "id": "FB98"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Taylor Fritz",
+    "player_id": "FB98",
+    "opponent_id": "H996",
+    "ss": 1.17,
+    "ta": 1.1,
+    "gpt": 1.11,
+    "p": 0.8665566437895401,
+    "ev": 0.013871273233761805
+  },
+  {
+    "id": 1029581167,
+    "start": "2026-10-23T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Stefanos Tsitsipas",
+      "odds": 1.26,
+      "id": "TE51"
+    },
+    "playerB": {
+      "name": "James Duckworth",
+      "odds": 3.9,
+      "id": "D994"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Stefanos Tsitsipas",
+    "player_id": "TE51",
+    "opponent_id": "D994",
+    "ss": 1.26,
+    "ta": 1.21,
+    "gpt": 1.32,
+    "p": 0.7898441797581306,
+    "ev": -0.00479633350475539
+  },
+  {
+    "id": 1029564574,
+    "start": "2026-10-22T09:10:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Daniil Medvedev",
+      "odds": 1.07,
+      "id": "MM58"
+    },
+    "playerB": {
+      "name": "Sho Shimabukuro",
+      "odds": 8.5,
+      "id": "SY67"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Daniil Medvedev",
+    "player_id": "MM58",
+    "opponent_id": "SY67",
+    "ss": 1.07,
+    "ta": 1.04,
+    "gpt": 1.07,
+    "p": 0.9146407579005127,
+    "ev": -0.021334389046451352
+  },
+  {
+    "id": 1029580815,
+    "start": "2026-10-22T17:00:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Flavio Cobolli",
+      "odds": 1.38,
+      "id": "C0E9"
+    },
+    "playerB": {
+      "name": "Stan Wawrinka",
+      "odds": 3,
+      "id": "W367"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Flavio Cobolli",
+    "player_id": "C0E9",
+    "opponent_id": "W367",
+    "ss": 1.38,
+    "ta": 1.35,
+    "gpt": 1.2,
+    "p": 0.7057813597120025,
+    "ev": -0.026021723597436597
+  },
+  {
+    "id": 1029570747,
+    "start": "2026-10-22T11:30:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Raphael Collignon",
+      "odds": 3.65,
+      "id": "C0JP"
+    },
+    "playerB": {
+      "name": "Jiri Lehecka",
+      "odds": 1.29,
+      "id": "L0BV"
+    },
+    "surface": "Hard",
+    "event_id": "2026-7485",
+    "pick": "Jiri Lehecka",
+    "player_id": "L0BV",
+    "opponent_id": "C0JP",
+    "ss": 1.29,
+    "ta": 1.27,
+    "gpt": 1.36,
+    "p": 0.7479995411960544,
+    "ev": -0.03508059185708978
+  },
+  {
+    "id": 1029570747,
+    "start": "2026-10-22T11:30:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Raphael Collignon",
+      "odds": 3.65,
+      "id": "C0JP"
+    },
+    "playerB": {
+      "name": "Jiri Lehecka",
+      "odds": 1.29,
+      "id": "L0BV"
+    },
+    "surface": "Hard",
+    "event_id": "2026-7485",
+    "pick": "Raphael Collignon",
+    "player_id": "C0JP",
+    "opponent_id": "L0BV",
+    "ss": 3.65,
+    "ta": 3.78,
+    "gpt": 3.16,
+    "p": 0.2520004588039456,
+    "ev": -0.08019832536559857
+  },
+  {
+    "id": 1029567104,
+    "start": "2026-10-22T14:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Alexander Bublik",
+      "odds": 1.32,
+      "id": "BK92"
+    },
+    "playerB": {
+      "name": "Fabian Marozsan",
+      "odds": 3.35,
+      "id": "M0CI"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Alexander Bublik",
+    "player_id": "BK92",
+    "opponent_id": "M0CI",
+    "ss": 1.32,
+    "ta": 1.38,
+    "gpt": 1.4,
+    "p": 0.6887735686687132,
+    "ev": -0.09081888935729854
+  },
+  {
+    "id": 1029580815,
+    "start": "2026-10-22T17:00:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Flavio Cobolli",
+      "odds": 1.38,
+      "id": "C0E9"
+    },
+    "playerB": {
+      "name": "Stan Wawrinka",
+      "odds": 3,
+      "id": "W367"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Stan Wawrinka",
+    "player_id": "W367",
+    "opponent_id": "C0E9",
+    "ss": 3,
+    "ta": 3.24,
+    "gpt": 4.64,
+    "p": 0.2942186402879975,
+    "ev": -0.11734407913600753
+  },
+  {
+    "id": 1029578794,
+    "start": "2026-10-22T15:00:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Damir Dzumhur",
+      "odds": 3.8,
+      "id": "D923"
+    },
+    "playerB": {
+      "name": "Zizou Bergs",
+      "odds": 1.26,
+      "id": "BU13"
+    },
+    "surface": "Hard",
+    "event_id": "2026-7485",
+    "pick": "Zizou Bergs",
+    "player_id": "BU13",
+    "opponent_id": "D923",
+    "ss": 1.26,
+    "ta": 1.37,
+    "gpt": 1.44,
+    "p": 0.6961287704295998,
+    "ev": -0.12287774925870432
+  },
+  {
+    "id": 1029577117,
+    "start": "2026-10-22T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Terence Atmane",
+      "odds": 2.04,
+      "id": "A0GC"
+    },
+    "playerB": {
+      "name": "Mattia Bellucci",
+      "odds": 1.77,
+      "id": "B0GG"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Mattia Bellucci",
+    "player_id": "B0GG",
+    "opponent_id": "A0GC",
+    "ss": 1.77,
+    "ta": 2.03,
+    "gpt": 1.87,
+    "p": 0.46981531999609794,
+    "ev": -0.1684268836069066
+  },
+  {
+    "id": 1029581167,
+    "start": "2026-10-23T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Stefanos Tsitsipas",
+      "odds": 1.26,
+      "id": "TE51"
+    },
+    "playerB": {
+      "name": "James Duckworth",
+      "odds": 3.9,
+      "id": "D994"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "James Duckworth",
+    "player_id": "D994",
+    "opponent_id": "TE51",
+    "ss": 3.9,
+    "ta": 4.53,
+    "gpt": 3.42,
+    "p": 0.2101558202418694,
+    "ev": -0.18039230105670934
+  },
+  {
+    "id": 1029577805,
+    "start": "2026-10-22T08:00:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Tomas Machac",
+      "odds": 3.05,
+      "id": "M0FH"
+    },
+    "playerB": {
+      "name": "Karen Khachanov",
+      "odds": 1.38,
+      "id": "KE29"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Karen Khachanov",
+    "player_id": "KE29",
+    "opponent_id": "M0FH",
+    "ss": 1.38,
+    "ta": 1.65,
+    "gpt": 1.51,
+    "p": 0.5784967523447427,
+    "ev": -0.20167448176425506
+  },
+  {
+    "id": 1029569496,
+    "start": "2026-10-22T11:20:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Borna Gojo",
+      "odds": 1.72,
+      "id": "GH92"
+    },
+    "playerB": {
+      "name": "Daniel Altmaier",
+      "odds": 2.12,
+      "id": "AE14"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Borna Gojo",
+    "player_id": "GH92",
+    "opponent_id": "AE14",
+    "ss": 1.72,
+    "ta": 2.08,
+    "gpt": 2.17,
+    "p": 0.45836229728523653,
+    "ev": -0.21161684866939323
+  },
+  {
+    "id": 1029569950,
+    "start": "2026-10-21T18:10:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Benjamin Bonzi",
+      "odds": 3.1,
+      "id": "BM95"
+    },
+    "playerB": {
+      "name": "Tommy Paul",
+      "odds": 1.37,
+      "id": "PL56"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Benjamin Bonzi",
+    "player_id": "BM95",
+    "opponent_id": "PL56",
+    "ss": 3.1,
+    "ta": 3.9,
+    "gpt": 3.82,
+    "p": 0.24448111792880314,
+    "ev": -0.24210853442071023
+  },
+  {
+    "id": 1029570407,
+    "start": "2026-10-22T12:00:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Valentin Vacherot",
+      "odds": 1.63,
+      "id": "VA25"
+    },
+    "playerB": {
+      "name": "Luca Van Assche",
+      "odds": 2.28,
+      "id": "V0DZ"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Luca Van Assche",
+    "player_id": "V0DZ",
+    "opponent_id": "VA25",
+    "ss": 2.28,
+    "ta": 2.87,
+    "gpt": 2.5,
+    "p": 0.33130504369266833,
+    "ev": -0.24462450038071626
+  },
+  {
+    "id": 1029564574,
+    "start": "2026-10-22T09:10:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Daniil Medvedev",
+      "odds": 1.07,
+      "id": "MM58"
+    },
+    "playerB": {
+      "name": "Sho Shimabukuro",
+      "odds": 8.5,
+      "id": "SY67"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Sho Shimabukuro",
+    "player_id": "SY67",
+    "opponent_id": "MM58",
+    "ss": 8.5,
+    "ta": 11.16,
+    "gpt": 8.95,
+    "p": 0.08535924209948731,
+    "ev": -0.2744464421543579
+  },
+  {
+    "id": 1029567299,
+    "start": "2026-10-21T18:00:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Gauthier Onclin",
+      "odds": 3.4,
+      "id": "O0A2"
+    },
+    "playerB": {
+      "name": "Jan-Lennard Struff",
+      "odds": 1.32,
+      "id": "SL28"
+    },
+    "surface": "Hard",
+    "event_id": "2026-7485",
+    "pick": "Gauthier Onclin",
+    "player_id": "O0A2",
+    "opponent_id": "SL28",
+    "ss": 3.4,
+    "ta": 4.49,
+    "gpt": 3.67,
+    "p": 0.2120732319225979,
+    "ev": -0.27895101146316725
+  },
+  {
+    "id": 1029578799,
+    "start": "2026-10-23T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Nikoloz Basilashvili",
+      "odds": 1.68,
+      "id": "BG23"
+    },
+    "playerB": {
+      "name": "Adrian Mannarino",
+      "odds": 2.17,
+      "id": "ME82"
+    },
+    "surface": "Hard",
+    "event_id": "2026-9410",
+    "pick": "Nikoloz Basilashvili",
+    "player_id": "BG23",
+    "opponent_id": "ME82",
+    "ss": 1.68,
+    "ta": 2.31,
+    "gpt": 2.14,
+    "p": 0.41310497662089996,
+    "ev": -0.3059836392768881
+  },
+  {
+    "id": 1029566159,
+    "start": "2026-10-22T13:10:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Pierre-Hugues Herbert",
+      "odds": 5.1,
+      "id": "H996"
+    },
+    "playerB": {
+      "name": "Taylor Fritz",
+      "odds": 1.17,
+      "id": "FB98"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Pierre-Hugues Herbert",
+    "player_id": "H996",
+    "opponent_id": "FB98",
+    "ss": 5.1,
+    "ta": 7.14,
+    "gpt": 6.81,
+    "p": 0.1334433562104599,
+    "ev": -0.3194388833266545
+  },
+  {
+    "id": 1029571655,
+    "start": "2026-10-22T18:10:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Kyrian Jacquet",
+      "odds": 2.55,
+      "id": "J0AZ"
+    },
+    "playerB": {
+      "name": "Brandon Nakashima",
+      "odds": 1.5,
+      "id": "N0AE"
+    },
+    "surface": "Hard",
+    "event_id": "2026-496",
+    "pick": "Kyrian Jacquet",
+    "player_id": "J0AZ",
+    "opponent_id": "N0AE",
+    "ss": 2.55,
+    "ta": 3.73,
+    "gpt": 3.35,
+    "p": 0.25526959313496533,
+    "ev": -0.3490625375058385
+  },
+  {
+    "id": 1029581066,
+    "start": "2026-10-23T11:30:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Clement Chidekh",
+      "odds": 2.38,
+      "id": "C0BH"
+    },
+    "playerB": {
+      "name": "Francisco Cerundolo",
+      "odds": 1.58,
+      "id": "C0AU"
+    },
+    "surface": "Hard",
+    "event_id": "2026-7485",
+    "pick": "Clement Chidekh",
+    "player_id": "C0BH",
+    "opponent_id": "C0AU",
+    "ss": 2.38,
+    "ta": 4.41,
+    "gpt": 4.0,
+    "p": 0.21594631611218493,
+    "ev": -0.48604776765299995
+  }
+]

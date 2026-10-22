@@ -1,0 +1,227 @@
+{
+  "checked_at": "2026-10-21T22:37:49.225174+02:00",
+  "bets": [
+    {
+      "bet_id": "20261021T205258+0200-1029581066-C0AU",
+      "recommendation_date": "2026-10-21",
+      "recommended_at": "2026-10-21T20:52:58.306747+02:00",
+      "registered_at": "2026-10-21T20:52:58.306747+02:00",
+      "oddset_match_id": 1029581066,
+      "offer_id": 2706871062,
+      "outcome_id": 4384366701,
+      "event_id": "2026-7485",
+      "tournament": "Bryssel",
+      "surface": "Hard",
+      "scheduled_start": "2026-10-23T11:30:00Z",
+      "player_id": "C0AU",
+      "player_name": "Francisco Cerundolo",
+      "opponent_id": "C0BH",
+      "opponent_name": "Clement Chidekh",
+      "odds": "1.58",
+      "ta_odds": 1.21,
+      "ta_probability": 0.784053683887815,
+      "minimum_odds_subjective": "1.45",
+      "stake_sek": "100.00",
+      "selection_method": "Selfständing matchanalys med TA som vägledning; inga GPT-odds.",
+      "rationale": "Cerúndolo har den starkare etablerade nivån och vann mot Damm 6–4, 7–6(4) i dag, verifierat direkt från ATP. Ett pris på 1,58 kräver cirka 63,3 % vinstchans. Jag bedömer honom som tydligare favorit än den gränsen, men klart försiktigare än TA-modellens 78,4 %.",
+      "risk": "Chidekh är i stark form: 8–2 på senaste tio registrerade matcher inklusive kval och slog Fearnley 7–6(4), 6–2 enligt den officiella lottningen. Motiverar en mindre övertygad bedömning än TA.",
+      "recommendation_source": "analysis/20261021T205011+0200/assessment.md",
+      "odds_source": "https://eu1.offering-api.kambicdn.com/offering/v2018/svenskaspel/listView/tennis/atp/all/all/matches.json?channel_id=1&client_id=200&lang=sv_SE&market=SE&useCombined=true&useCombinedLive=true",
+      "odds_checked_at": "2026-10-21T20:52:58.306747+02:00",
+      "status_at_registration": "NOT_STARTED"
+    },
+    {
+      "bet_id": "20261021T205258+0200-1029578799-ME82",
+      "recommendation_date": "2026-10-21",
+      "recommended_at": "2026-10-21T20:52:58.306747+02:00",
+      "registered_at": "2026-10-21T20:52:58.306747+02:00",
+      "oddset_match_id": 1029578799,
+      "offer_id": 2706810323,
+      "outcome_id": 4384222196,
+      "event_id": "2026-9410",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "scheduled_start": "2026-10-23T06:30:00Z",
+      "player_id": "ME82",
+      "player_name": "Adrian Mannarino",
+      "opponent_id": "BG23",
+      "opponent_name": "Nikoloz Basilashvili",
+      "odds": "2.17",
+      "ta_odds": 1.62,
+      "ta_probability": 0.5868950233791,
+      "minimum_odds_subjective": "2.00",
+      "stake_sek": "100.00",
+      "selection_method": "Selfständing matchanalys med TA som vägledning; inga GPT-odds.",
+      "rationale": "Mannarino är ett spelbart outsiderpris: 2,17 kräver cirka 46,1 % vinstchans. Jag bedömer matchen närmare jämn än marknadens pris antyder. Segern över Rublev 6–4, 3–6, 6–3 är verifierad direkt från ATP och han slog även Cobolli i Shanghai enligt databasen. TA-priset 1,62 ger ytterligare stöd, men är inte min egen exakta sannolikhet.",
+      "risk": "Basilashvili är 8–2 på senaste tio registrerade matcher inklusive kval och har flera segrar på plats. Mannarinos ålder och två registrerade tresetare i Almaty gör att jag kräver minst 2,00.",
+      "recommendation_source": "analysis/20261021T205011+0200/assessment.md",
+      "odds_source": "https://eu1.offering-api.kambicdn.com/offering/v2018/svenskaspel/listView/tennis/atp/all/all/matches.json?channel_id=1&client_id=200&lang=sv_SE&market=SE&useCombined=true&useCombinedLive=true",
+      "odds_checked_at": "2026-10-21T20:52:58.306747+02:00",
+      "status_at_registration": "NOT_STARTED"
+    },
+    {
+      "bet_id": "20261021T205258+0200-1029571655-N0AE",
+      "recommendation_date": "2026-10-21",
+      "recommended_at": "2026-10-21T20:52:58.306747+02:00",
+      "registered_at": "2026-10-21T20:52:58.306747+02:00",
+      "oddset_match_id": 1029571655,
+      "offer_id": 2706575167,
+      "outcome_id": 4383536575,
+      "event_id": "2026-496",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "scheduled_start": "2026-10-22T18:10:00Z",
+      "player_id": "N0AE",
+      "player_name": "Brandon Nakashima",
+      "opponent_id": "J0AZ",
+      "opponent_name": "Kyrian Jacquet",
+      "odds": "1.50",
+      "ta_odds": 1.28,
+      "ta_probability": 0.7447304068650347,
+      "minimum_odds_subjective": "1.45",
+      "stake_sek": "100.00",
+      "selection_method": "Selfständing matchanalys med TA som vägledning; inga GPT-odds.",
+      "rationale": "Nakashimas högre hardcourt-Elo (1868 mot 1682) och 26–13 på registrerade hardcourt-matcher 2026 talar för honom. Han slog Medjedovic i tre set här; jag bedömer hans vinstchans tillräckligt hög för 1,50, men med mindre spelvärdesmarginal än TA indikerar.",
+      "risk": "Jacquet är 7–3 på senaste tio registrerade matcher inklusive kval, har redan slagit Berrettini här och får spela på hemmaplan. Därför inget starkt favoritspel till vilket pris som helst; bedömd lägsta gräns 1,45.",
+      "recommendation_source": "analysis/20261021T205011+0200/assessment.md",
+      "odds_source": "https://eu1.offering-api.kambicdn.com/offering/v2018/svenskaspel/listView/tennis/atp/all/all/matches.json?channel_id=1&client_id=200&lang=sv_SE&market=SE&useCombined=true&useCombinedLive=true",
+      "odds_checked_at": "2026-10-21T20:52:58.306747+02:00",
+      "status_at_registration": "NOT_STARTED"
+    }
+  ],
+  "source": "https://eu1.offering-api.kambicdn.com/offering/v2018/svenskaspel/listView/tennis/atp/all/all/matches.json?channel_id=1&client_id=200&lang=sv_SE&market=SE&useCombined=true&useCombinedLive=true",
+  "provider_statuses": [
+    {
+      "bet_id": "20261021T205258+0200-1029581066-C0AU",
+      "event": {
+        "id": 1029581066,
+        "name": "Clement Chidekh - Francisco Cerundolo",
+        "nameDelimiter": "-",
+        "englishName": "Clement Chidekh - Francisco Cerundolo",
+        "homeName": "Clement Chidekh",
+        "awayName": "Francisco Cerundolo",
+        "start": "2026-10-23T11:30:00Z",
+        "group": "Bryssel",
+        "groupId": 2010205615,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "termKey": "atp"
+          },
+          {
+            "id": 2010205615,
+            "name": "Bryssel",
+            "englishName": "Brussels",
+            "termKey": "brussels"
+          }
+        ],
+        "nonLiveBoCount": 36,
+        "sport": "TENNIS",
+        "tags": [
+          "OFFERED_LIVE",
+          "BET_BUILDER",
+          "MATCH"
+        ],
+        "state": "NOT_STARTED"
+      },
+      "live_data": null
+    },
+    {
+      "bet_id": "20261021T205258+0200-1029578799-ME82",
+      "event": {
+        "id": 1029578799,
+        "name": "Nikoloz Basilashvili - Adrian Mannarino",
+        "nameDelimiter": "-",
+        "englishName": "Nikoloz Basilashvili - Adrian Mannarino",
+        "homeName": "Nikoloz Basilashvili",
+        "awayName": "Adrian Mannarino",
+        "start": "2026-10-23T06:30:00Z",
+        "group": "Almaty",
+        "groupId": 2010203056,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "termKey": "atp"
+          },
+          {
+            "id": 2010203056,
+            "name": "Almaty",
+            "englishName": "Almaty",
+            "termKey": "almaty"
+          }
+        ],
+        "nonLiveBoCount": 17,
+        "sport": "TENNIS",
+        "tags": [
+          "OFFERED_LIVE",
+          "BET_BUILDER",
+          "MATCH"
+        ],
+        "state": "NOT_STARTED"
+      },
+      "live_data": null
+    },
+    {
+      "bet_id": "20261021T205258+0200-1029571655-N0AE",
+      "event": {
+        "id": 1029571655,
+        "name": "Kyrian Jacquet - Brandon Nakashima",
+        "nameDelimiter": "-",
+        "englishName": "Kyrian Jacquet - Brandon Nakashima",
+        "homeName": "Kyrian Jacquet",
+        "awayName": "Brandon Nakashima",
+        "start": "2026-10-22T18:10:00Z",
+        "group": "Lyon",
+        "groupId": 2000105652,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "termKey": "atp"
+          },
+          {
+            "id": 2000105652,
+            "name": "Lyon",
+            "englishName": "Lyon",
+            "termKey": "lyon"
+          }
+        ],
+        "nonLiveBoCount": 35,
+        "sport": "TENNIS",
+        "tags": [
+          "OFFERED_LIVE",
+          "BET_BUILDER",
+          "MATCH"
+        ],
+        "state": "NOT_STARTED"
+      },
+      "live_data": null
+    }
+  ],
+  "database_results": [],
+  "open_stake_sek": "300.00",
+  "realized_net_sek": "0.00"
+}

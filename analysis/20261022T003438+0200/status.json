@@ -1,0 +1,339 @@
+{
+  "checked_at": "2026-10-22T00:34:38.070059+02:00",
+  "analysis_dir": "analysis/20261022T003438+0200",
+  "source": "https://eu1.offering-api.kambicdn.com/offering/v2018/svenskaspel/listView/tennis/atp/all/all/matches.json?channel_id=1&client_id=200&lang=sv_SE&market=SE&useCombined=true&useCombinedLive=true",
+  "matches": [
+    {
+      "bet_id": "20261022T000412+0200-1029577805-M0FH",
+      "player": "Tomas Machac",
+      "opponent": "Karen Khachanov",
+      "locked_odds": "3.10",
+      "actual_stake_sek": "100.00",
+      "database_results": [],
+      "current_event": {
+        "id": 1029577805,
+        "name": "Tomas Machac - Karen Khachanov",
+        "nameDelimiter": "-",
+        "englishName": "Tomas Machac - Karen Khachanov",
+        "homeName": "Tomas Machac",
+        "awayName": "Karen Khachanov",
+        "start": "2026-10-22T08:00:00Z",
+        "group": "Almaty",
+        "groupId": 2010203056,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "termKey": "atp"
+          },
+          {
+            "id": 2010203056,
+            "name": "Almaty",
+            "englishName": "Almaty",
+            "termKey": "almaty"
+          }
+        ],
+        "nonLiveBoCount": 42,
+        "sport": "TENNIS",
+        "tags": [
+          "STREAMED_WEB",
+          "OFFERED_LIVE",
+          "BET_BUILDER",
+          "STREAMED_MOBILE",
+          "MATCH"
+        ],
+        "state": "NOT_STARTED"
+      },
+      "live_data": null
+    },
+    {
+      "bet_id": "20261022T000412+0200-1029570407-VA25",
+      "player": "Valentin Vacherot",
+      "opponent": "Luca Van Assche",
+      "locked_odds": "1.62",
+      "actual_stake_sek": "100.00",
+      "database_results": [],
+      "current_event": {
+        "id": 1029570407,
+        "name": "Valentin Vacherot - Luca Van Assche",
+        "nameDelimiter": "-",
+        "englishName": "Valentin Vacherot - Luca Van Assche",
+        "homeName": "Valentin Vacherot",
+        "awayName": "Luca Van Assche",
+        "start": "2026-10-22T12:00:00Z",
+        "group": "Lyon",
+        "groupId": 2000105652,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "termKey": "atp"
+          },
+          {
+            "id": 2000105652,
+            "name": "Lyon",
+            "englishName": "Lyon",
+            "termKey": "lyon"
+          }
+        ],
+        "nonLiveBoCount": 42,
+        "sport": "TENNIS",
+        "tags": [
+          "STREAMED_WEB",
+          "OFFERED_LIVE",
+          "BET_BUILDER",
+          "STREAMED_MOBILE",
+          "MATCH"
+        ],
+        "state": "NOT_STARTED"
+      },
+      "live_data": null
+    }
+  ],
+  "eligible": [
+    {
+      "id": 1029577117,
+      "name": "Terence Atmane - Mattia Bellucci",
+      "group": "Almaty",
+      "start": "2026-10-22T06:30:00Z",
+      "offer_id": 2706701891,
+      "outcomes": [
+        {
+          "id": 4383912523,
+          "participant": "Mattia Bellucci",
+          "odds": 1.9
+        },
+        {
+          "id": 4383912524,
+          "participant": "Terence Atmane",
+          "odds": 1.9
+        }
+      ]
+    },
+    {
+      "id": 1029577805,
+      "name": "Tomas Machac - Karen Khachanov",
+      "group": "Almaty",
+      "start": "2026-10-22T08:00:00Z",
+      "offer_id": 2706687719,
+      "outcomes": [
+        {
+          "id": 4383909144,
+          "participant": "Tomas Machac",
+          "odds": 3.1
+        },
+        {
+          "id": 4383909145,
+          "participant": "Karen Khachanov",
+          "odds": 1.37
+        }
+      ]
+    },
+    {
+      "id": 1029564574,
+      "name": "Daniil Medvedev - Sho Shimabukuro",
+      "group": "Almaty",
+      "start": "2026-10-22T09:10:00Z",
+      "offer_id": 2706270804,
+      "outcomes": [
+        {
+          "id": 4382438207,
+          "participant": "Daniil Medvedev",
+          "odds": 1.07
+        },
+        {
+          "id": 4382438208,
+          "participant": "Sho Shimabukuro",
+          "odds": 8.5
+        }
+      ]
+    },
+    {
+      "id": 1029569496,
+      "name": "Borna Gojo - Daniel Altmaier",
+      "group": "Lyon",
+      "start": "2026-10-22T11:20:00Z",
+      "offer_id": 2706512489,
+      "outcomes": [
+        {
+          "id": 4383154962,
+          "participant": "Borna Gojo",
+          "odds": 1.73
+        },
+        {
+          "id": 4383154963,
+          "participant": "Daniel Altmaier",
+          "odds": 2.1
+        }
+      ]
+    },
+    {
+      "id": 1029570747,
+      "name": "Raphael Collignon - Jiri Lehecka",
+      "group": "Bryssel",
+      "start": "2026-10-22T11:30:00Z",
+      "offer_id": 2706495195,
+      "outcomes": [
+        {
+          "id": 4383145570,
+          "participant": "Raphael Collignon",
+          "odds": 3.6
+        },
+        {
+          "id": 4383145571,
+          "participant": "Jiri Lehecka",
+          "odds": 1.29
+        }
+      ]
+    },
+    {
+      "id": 1029570407,
+      "name": "Valentin Vacherot - Luca Van Assche",
+      "group": "Lyon",
+      "start": "2026-10-22T12:00:00Z",
+      "offer_id": 2706487147,
+      "outcomes": [
+        {
+          "id": 4383152008,
+          "participant": "Luca Van Assche",
+          "odds": 2.3
+        },
+        {
+          "id": 4383152009,
+          "participant": "Valentin Vacherot",
+          "odds": 1.62
+        }
+      ]
+    },
+    {
+      "id": 1029583148,
+      "name": "David Goffin - Alex Michelsen",
+      "group": "Bryssel",
+      "start": "2026-10-22T12:40:00Z",
+      "offer_id": 2706908663,
+      "outcomes": [
+        {
+          "id": 4384554581,
+          "participant": "David Goffin",
+          "odds": 8.0
+        },
+        {
+          "id": 4384554582,
+          "participant": "Alex Michelsen",
+          "odds": 1.08
+        }
+      ]
+    },
+    {
+      "id": 1029566159,
+      "name": "Pierre-Hugues Herbert - Taylor Fritz",
+      "group": "Lyon",
+      "start": "2026-10-22T13:10:00Z",
+      "offer_id": 2706466393,
+      "outcomes": [
+        {
+          "id": 4383177178,
+          "participant": "Pierre-Hugues Herbert",
+          "odds": 5.2
+        },
+        {
+          "id": 4383177179,
+          "participant": "Taylor Fritz",
+          "odds": 1.16
+        }
+      ]
+    },
+    {
+      "id": 1029567104,
+      "name": "Alexander Bublik - Fabian Marozsan",
+      "group": "Almaty",
+      "start": "2026-10-22T14:30:00Z",
+      "offer_id": 2706509612,
+      "outcomes": [
+        {
+          "id": 4383171435,
+          "participant": "Alexander Bublik",
+          "odds": 1.33
+        },
+        {
+          "id": 4383171436,
+          "participant": "Fabian Marozsan",
+          "odds": 3.3
+        }
+      ]
+    },
+    {
+      "id": 1029578794,
+      "name": "Damir Dzumhur - Zizou Bergs",
+      "group": "Bryssel",
+      "start": "2026-10-22T15:00:00Z",
+      "offer_id": 2706776024,
+      "outcomes": [
+        {
+          "id": 4384193023,
+          "participant": "Damir Dzumhur",
+          "odds": 3.8
+        },
+        {
+          "id": 4384193024,
+          "participant": "Zizou Bergs",
+          "odds": 1.26
+        }
+      ]
+    },
+    {
+      "id": 1029580815,
+      "name": "Flavio Cobolli - Stan Wawrinka",
+      "group": "Lyon",
+      "start": "2026-10-22T17:00:00Z",
+      "offer_id": 2706844144,
+      "outcomes": [
+        {
+          "id": 4384376593,
+          "participant": "Flavio Cobolli",
+          "odds": 1.38
+        },
+        {
+          "id": 4384376594,
+          "participant": "Stan Wawrinka",
+          "odds": 3.0
+        }
+      ]
+    },
+    {
+      "id": 1029571655,
+      "name": "Kyrian Jacquet - Brandon Nakashima",
+      "group": "Lyon",
+      "start": "2026-10-22T18:10:00Z",
+      "offer_id": 2706575167,
+      "outcomes": [
+        {
+          "id": 4383536574,
+          "participant": "Kyrian Jacquet",
+          "odds": 2.75
+        },
+        {
+          "id": 4383536575,
+          "participant": "Brandon Nakashima",
+          "odds": 1.45
+        }
+      ]
+    }
+  ],
+  "odds_feed": "ok",
+  "candidate_changes_since_previous_check": []
+}

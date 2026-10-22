@@ -1,0 +1,116 @@
+{
+  "selected_at": "2026-10-21T19:57:04.621612+02:00",
+  "population": "16 upcoming ATP main-tour singles matches in Oddset feed, 21–23 October 2026; Hard verified through current events metadata",
+  "picks": [
+    {
+      "id": 1029581066,
+      "start": "2026-10-23T11:30:00Z",
+      "tournament": "Bryssel",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Clement Chidekh",
+        "odds": 2.38,
+        "id": "C0BH"
+      },
+      "playerB": {
+        "name": "Francisco Cerundolo",
+        "odds": 1.58,
+        "id": "C0AU"
+      },
+      "surface": "Hard",
+      "event_id": "2026-7485",
+      "pick": "Francisco Cerundolo",
+      "player_id": "C0AU",
+      "opponent_id": "C0BH",
+      "ss": 1.58,
+      "ta": 1.21,
+      "gpt": 1.25,
+      "p": 0.784053683887815,
+      "ev": 0.23880482054274776,
+      "checked_at": "2026-10-21T19:57:04.621612+02:00",
+      "minimum_odds_subjective": 1.45,
+      "rationale": "Stort prisutrymme mot modellerna och högre etablerad nivå. Dagens vinst mot Damm bekräftad i ATP-flödet; Chidekhs form är den främsta invändningen."
+    },
+    {
+      "id": 1029578799,
+      "start": "2026-10-23T06:30:00Z",
+      "tournament": "Almaty",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Nikoloz Basilashvili",
+        "odds": 1.68,
+        "id": "BG23"
+      },
+      "playerB": {
+        "name": "Adrian Mannarino",
+        "odds": 2.17,
+        "id": "ME82"
+      },
+      "surface": "Hard",
+      "event_id": "2026-9410",
+      "pick": "Adrian Mannarino",
+      "player_id": "ME82",
+      "opponent_id": "BG23",
+      "ss": 2.17,
+      "ta": 1.62,
+      "gpt": 1.71,
+      "p": 0.5868950233791,
+      "ev": 0.27356220073264703,
+      "checked_at": "2026-10-21T19:57:04.621612+02:00",
+      "minimum_odds_subjective": 2.0,
+      "rationale": "Modellerna gör honom till favorit trots outsiderpris. Dagens seger över Rublev bekräftad i ATP-flödet. Basilashvilis 8–2 i senaste tio registrerade matcher inklusive kval motiverar försiktighet."
+    },
+    {
+      "id": 1029571655,
+      "start": "2026-10-22T18:10:00Z",
+      "tournament": "Lyon",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Kyrian Jacquet",
+        "odds": 2.55,
+        "id": "J0AZ"
+      },
+      "playerB": {
+        "name": "Brandon Nakashima",
+        "odds": 1.5,
+        "id": "N0AE"
+      },
+      "surface": "Hard",
+      "event_id": "2026-496",
+      "pick": "Brandon Nakashima",
+      "player_id": "N0AE",
+      "opponent_id": "J0AZ",
+      "ss": 1.5,
+      "ta": 1.28,
+      "gpt": 1.33,
+      "p": 0.7447304068650347,
+      "ev": 0.117095610297552,
+      "checked_at": "2026-10-21T19:57:04.621612+02:00",
+      "minimum_odds_subjective": 1.45,
+      "rationale": "Starkare hardcourt-Elo och 26–13 i registrerade hardcourt-matcher 2026. Jacquet är 7–3 senaste tio inklusive kval och har slagit Berrettini här."
+    }
+  ],
+  "excluded": "Machac: 4–6 last ten registered matches vs Khachanov 7–3; Mannarino chosen instead after current ATP result confirmation. Dzumhur: challenger-level winning run vs Bergs recent Shanghai round of 16 incl Alcaraz win. Altmaier: 5–13 on registered hardcourt matches in 2026 vs Gojo strong current qualifying form.",
+  "limitations": [
+    "Subjective shortlist after TA-EV screening, not a strict top-three model ranking.",
+    "TA/GPT prices include existing 5% probability markup and are not independent confirmations.",
+    "EV uses margin-free TA probability; it is conditional on model accuracy.",
+    "Historical dates are event start dates; same-event order is inferred by round.",
+    "Form includes qualifying, Challenger and Davis/Laver Cup matches, Completed/Aborted, excludes walkovers.",
+    "Database history is behind current results; ATP live feed confirms Cerundolo vs Damm and Mannarino vs Rublev.",
+    "No comprehensive verified injury assessment; Hard Elo does not distinguish indoor/outdoor.",
+    "Minimum odds are subjective thresholds allowing for form/model uncertainty, not outputs of a validated calibration."
+  ],
+  "sources": [
+    "https://tennis.egelberg.se/api/oddset",
+    "https://tennis.egelberg.se/api/events/current",
+    "https://tennis.egelberg.se/api/matches/live",
+    "Direct MariaDB PLAYER_ODDS, WIN_PROBABILITY_TA, players, matches, events"
+  ]
+}

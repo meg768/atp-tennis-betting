@@ -1,0 +1,41 @@
+[
+  {
+    "players": [
+      "VA25",
+      "V0DZ"
+    ],
+    "matches": []
+  },
+  {
+    "players": [
+      "M0FH",
+      "KE29"
+    ],
+    "matches": [
+      {
+        "id": "2024-580-MS021-R32-KE29-M0FH",
+        "event": "2024-580",
+        "round": "R32",
+        "winner": "KE29",
+        "loser": "M0FH",
+        "winner_rank": 15,
+        "loser_rank": 75,
+        "score": "6-4 7-6(4) 4-6 7-6(5)",
+        "status": "Completed",
+        "duration": "03:24",
+        "winner_name": "Karen Khachanov",
+        "loser_name": "Tomas Machac",
+        "tournament": "Australian Open",
+        "date": "2024-01-15",
+        "surface": "Hard"
+      }
+    ]
+  },
+  {
+    "players": [
+      "N0AE",
+      "J0AZ"
+    ],
+    "matches": []
+  }
+]

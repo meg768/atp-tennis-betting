@@ -1,0 +1,182 @@
+[
+  {
+    "event": "2026-9410",
+    "name": "Almaty Open",
+    "winner": "D994",
+    "score": "7-5 7-6(7)",
+    "player": {
+      "id": "D994",
+      "name": "James Duckworth",
+      "country": "AUS",
+      "seed": null
+    },
+    "opponent": {
+      "id": "D0FJ",
+      "name": "Luciano Darderi",
+      "country": "ITA",
+      "seed": 2
+    },
+    "server": "player",
+    "comment": "Game Set and Match James Duckworth. \r\n James Duckworth wins the match  7-5  7-6(7)."
+  },
+  {
+    "event": "2026-9410",
+    "name": "Almaty Open",
+    "winner": "ME82",
+    "score": "6-4 3-6 6-3",
+    "player": {
+      "id": "ME82",
+      "name": "Adrian Mannarino",
+      "country": "FRA",
+      "seed": null
+    },
+    "opponent": {
+      "id": "RE44",
+      "name": "Andrey Rublev",
+      "country": "RUS",
+      "seed": 4
+    },
+    "server": "player",
+    "comment": "Game Set and Match Adrian Mannarino. \r\n Adrian Mannarino wins the match  6-4  3-6  6-3 ."
+  },
+  {
+    "event": "2026-9410",
+    "name": "Almaty Open",
+    "winner": "TE51",
+    "score": "6-1 6-2",
+    "player": {
+      "id": "TE51",
+      "name": "Stefanos Tsitsipas",
+      "country": "GRE",
+      "seed": 7
+    },
+    "opponent": {
+      "id": "K926",
+      "name": "Mikhail Kukushkin",
+      "country": "KAZ",
+      "seed": null
+    },
+    "server": "player",
+    "comment": "Game Set and Match Stefanos Tsitsipas. \r\n Stefanos Tsitsipas wins the match  6-1  6-2 ."
+  },
+  {
+    "event": "2026-7485",
+    "name": "BNP Paribas Fortis European Open",
+    "winner": null,
+    "score": "3-6 6-3 3-3 [0-0]",
+    "player": {
+      "id": "GB88",
+      "name": "David Goffin",
+      "country": "BEL",
+      "seed": null
+    },
+    "opponent": {
+      "id": "BU70",
+      "name": "Remy Bertola",
+      "country": "SUI",
+      "seed": null
+    },
+    "server": "opponent",
+    "comment": "David Goffin wins the point on his 1st serve.  Game David Goffin. \r\n Set level 3-3."
+  },
+  {
+    "event": "2026-7485",
+    "name": "BNP Paribas Fortis European Open",
+    "winner": "C0AU",
+    "score": "4-6 6-7(4)",
+    "player": {
+      "id": "D0DT",
+      "name": "Martin Damm",
+      "country": "USA",
+      "seed": null
+    },
+    "opponent": {
+      "id": "C0AU",
+      "name": "Francisco Cerundolo",
+      "country": "ARG",
+      "seed": 3
+    },
+    "server": "player",
+    "comment": "Game Set and Match Francisco Cerundolo. \r\n Francisco Cerundolo wins the match  6-4  7-6(4)."
+  },
+  {
+    "event": "2026-7485",
+    "name": "BNP Paribas Fortis European Open",
+    "winner": "GJ37",
+    "score": "6-7(4) 5-7",
+    "player": {
+      "id": "N0BS",
+      "name": "Mariano Navone",
+      "country": "ARG",
+      "seed": 8
+    },
+    "opponent": {
+      "id": "GJ37",
+      "name": "Tallon Griekspoor",
+      "country": "NED",
+      "seed": null
+    },
+    "server": "player",
+    "comment": "Game Set and Match Tallon Griekspoor. \r\n Tallon Griekspoor wins the match  7-6(4) 7-5 ."
+  },
+  {
+    "event": "2026-496",
+    "name": "Grand Prix Auvergne-Rhone-Alpes",
+    "winner": null,
+    "score": "4-4 [0-0]",
+    "player": {
+      "id": "K0O4",
+      "name": "Moise Kouame",
+      "country": "FRA",
+      "seed": null
+    },
+    "opponent": {
+      "id": "M0EJ",
+      "name": "Lorenzo Musetti",
+      "country": "ITA",
+      "seed": 6
+    },
+    "server": "player",
+    "comment": "Lorenzo Musetti wins the point on his 1st serve.  Game Lorenzo Musetti. \r\n Set level 4-4."
+  },
+  {
+    "event": "2026-496",
+    "name": "Grand Prix Auvergne-Rhone-Alpes",
+    "winner": "MW02",
+    "score": "6-4 6-4",
+    "player": {
+      "id": "MW02",
+      "name": "Corentin Moutet",
+      "country": "FRA",
+      "seed": null
+    },
+    "opponent": {
+      "id": "B0WL",
+      "name": "Felix Balshaw",
+      "country": "FRA",
+      "seed": null
+    },
+    "server": "player",
+    "comment": "Game Set and Match Corentin Moutet. \r\n Corentin Moutet wins the match  6-4  6-4 ."
+  },
+  {
+    "event": "2026-496",
+    "name": "Grand Prix Auvergne-Rhone-Alpes",
+    "winner": "W367",
+    "score": "6-3 6-7(2) 7-6(5)",
+    "player": {
+      "id": "W367",
+      "name": "Stan Wawrinka",
+      "country": "SUI",
+      "seed": null
+    },
+    "opponent": {
+      "id": "L0IL",
+      "name": "Martin Landaluce",
+      "country": "ESP",
+      "seed": null
+    },
+    "server": "player",
+    "comment": "Game Set and Match Stan Wawrinka. \r\n Stan Wawrinka wins the match  6-3 6-7(2) 7-6(5)."
+  }
+]

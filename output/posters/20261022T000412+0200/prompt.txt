@@ -1,0 +1,46 @@
+Use case: productivity-visual.
+Asset type: polished Swedish portrait tennis poster for a private paper betting tracker.
+Create a finished, elegant typography-led poster, portrait 3:4, high resolution. Atmospheric dark indoor hard tennis court with a subtle net, overhead light and a tennis ball, kept subdued behind crisp readable typography. Restrained off-white and tennis yellow accents. Spacious professional sports editorial design. No player photographs, no logos, no invented details. Two large clearly separated match panels, then a smaller outlined empty third-slot panel. Highlight the SELECTED PLAYER and LOCKED ODDS, the opponent clearly labeled 'Mot'. Use beautiful bold condensed sans serif headlines, orderly typographic hierarchy, generous margins; all Swedish copy is exact and fully readable.
+
+Exact poster text:
+Top eyebrow: 'ATP • NY SERIE'
+Main title: 'TVÅ BOKFÖRDA SPEL'
+Subtitle: '22 OKTOBER 2026'
+Timestamp, small but readable: 'Uppgifter kontrollerade 22 oktober kl. 00.04'
+
+Panel 1:
+'01'
+'TOMÁŠ MACHÁČ'
+'Mot Karen Khachanov'
+'ALMATY • 22/10 KL. 10.00'
+'LÅST ODDS 3,10'
+'TA 2,26'
+'INSATS 100 KR'
+'Spel bokfört – inväntar matchstart'
+
+Panel 2:
+'02'
+'VALENTIN VACHEROT'
+'Mot Luca Van Assche'
+'LYON • 22/10 KL. 14.00'
+'LÅST ODDS 1,62'
+'TA 1,42'
+'INSATS 100 KR'
+'Spel bokfört – inväntar matchstart'
+
+Smaller third-slot panel:
+'03 • LEDIG PLATS'
+'Inget tredje spel valt'
+
+Bottom summary with three aligned figures:
+'ÖPPEN INSATS' '200 KR'
+'REALISERAT NETTO' '0 KR'
+'AVGJORDA SPEL' '0'
+
+Footer, small readable:
+'Nya spel: matchstart inom 24 timmar vid bokföring.'
+'Svenska tider • Starttiderna är preliminära'
+'TA används som referens och inkluderar 5 % marginal.'
+'Simulerade spel – inga riktiga pengar satsade.'
+
+Constraints: All numbers and names must be exact. No third bet or added stake, no odds changes, no claim of guaranteed winnings. This is the NEW portfolio with TWO games only; no old players. Match panel status lines may wrap into two balanced lines. Typography and financial data take priority over decorative imagery.

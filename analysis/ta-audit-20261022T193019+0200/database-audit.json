@@ -1,0 +1,84 @@
+{
+  "checked_at": "2026-10-22T19:30:19.463379+02:00",
+  "analysis_dir": "analysis/ta-audit-20261022T193019+0200",
+  "functions": [
+    {
+      "ROUTINE_NAME": "WIN_PROBABILITY_TA",
+      "ROUTINE_DEFINITION": "BEGIN\n    /*\n    WIN_PROBABILITY_TA(playerID, opponentID, surface)\n\n    Purpose\n    - Return the fair Tennis Abstract Elo win probability for playerID against\n      opponentID.\n    - This is the canonical TA model. It performs no pricing and applies no\n      margin; PLAYER_ODDS converts the probability to decimal odds.\n\n    Input\n    - playerID, opponentID:\n      ATP player id or free-text player name resolved through PLAYER_LOOKUP.\n    - surface:\n      Hard, Clay, or Grass (case-insensitive). NULL, empty, or another value\n      selects overall Tennis Abstract Elo.\n\n    Output\n    - Fair probability for playerID between 0 and 1.\n    - NULL when either player cannot be resolved, both inputs resolve to the\n      same player, or the selected stored Elo is missing or non-positive.\n\n    Model\n    - Select overall or surface-specific Tennis Abstract Elo from players.\n    - Apply the standard Elo expectation formula:\n      1 / (1 + 10 ^ ((opponentElo - playerElo) / 400)).\n    */\n\n    DECLARE v_player_id VARCHAR(32) DEFAULT NULL;\n    DECLARE v_opponent_id VARCHAR(32) DEFAULT NULL;\n    DECLARE v_surface VARCHAR(50) DEFAULT NULL;\n    DECLARE v_elo_player DOUBLE DEFAULT NULL;\n    DECLARE v_elo_opponent DOUBLE DEFAULT NULL;\n\n    IF playerID IS NULL OR TRIM(playerID) = '' OR opponentID IS NULL OR TRIM(opponentID) = '' THEN\n        RETURN NULL;\n    END IF;\n\n    SET v_player_id = PLAYER_LOOKUP(playerID);\n    SET v_opponent_id = PLAYER_LOOKUP(opponentID);\n    IF v_player_id IS NULL OR v_opponent_id IS NULL OR UPPER(v_player_id) = UPPER(v_opponent_id) THEN\n        RETURN NULL;\n    END IF;\n\n    SET v_surface = UPPER(NULLIF(TRIM(surface), ''));\n\n    SELECT CASE v_surface\n        WHEN 'HARD' THEN elo_rank_hard\n        WHEN 'CLAY' THEN elo_rank_clay\n        WHEN 'GRASS' THEN elo_rank_grass\n        ELSE elo_rank\n    END\n    INTO v_elo_player\n    FROM players WHERE id = v_player_id LIMIT 1;\n\n    SELECT CASE v_surface\n        WHEN 'HARD' THEN elo_rank_hard\n        WHEN 'CLAY' THEN elo_rank_clay\n        WHEN 'GRASS' THEN elo_rank_grass\n        ELSE elo_rank\n    END\n    INTO v_elo_opponent\n    FROM players WHERE id = v_opponent_id LIMIT 1;\n\n    IF v_elo_player IS NULL OR v_elo_opponent IS NULL OR v_elo_player <= 0 OR v_elo_opponent <= 0 THEN\n        RETURN NULL;\n    END IF;\n\n    RETURN 1 / (1 + POW(10, (v_elo_opponent - v_elo_player) / 400));\nEND"
+    }
+  ],
+  "columns": [
+    {
+      "COLUMN_NAME": "birthdate",
+      "DATA_TYPE": "date",
+      "COLUMN_TYPE": "date"
+    },
+    {
+      "COLUMN_NAME": "highest_rank_date",
+      "DATA_TYPE": "date",
+      "COLUMN_TYPE": "date"
+    },
+    {
+      "COLUMN_NAME": "elo_rank",
+      "DATA_TYPE": "int",
+      "COLUMN_TYPE": "int(11)"
+    },
+    {
+      "COLUMN_NAME": "elo_rank_hard",
+      "DATA_TYPE": "int",
+      "COLUMN_TYPE": "int(11)"
+    },
+    {
+      "COLUMN_NAME": "elo_rank_clay",
+      "DATA_TYPE": "int",
+      "COLUMN_TYPE": "int(11)"
+    },
+    {
+      "COLUMN_NAME": "elo_rank_grass",
+      "DATA_TYPE": "int",
+      "COLUMN_TYPE": "int(11)"
+    }
+  ],
+  "players": [
+    {
+      "id": "BG23",
+      "name": "Nikoloz Basilashvili",
+      "elo_rank_hard": 1603
+    },
+    {
+      "id": "C0AU",
+      "name": "Francisco Cerundolo",
+      "elo_rank_hard": 1840
+    },
+    {
+      "id": "C0BH",
+      "name": "Clement Chidekh",
+      "elo_rank_hard": 1616
+    },
+    {
+      "id": "KE29",
+      "name": "Karen Khachanov",
+      "elo_rank_hard": 1810
+    },
+    {
+      "id": "M0FH",
+      "name": "Tomas Machac",
+      "elo_rank_hard": 1755
+    },
+    {
+      "id": "ME82",
+      "name": "Adrian Mannarino",
+      "elo_rank_hard": 1664
+    },
+    {
+      "id": "V0DZ",
+      "name": "Luca Van Assche",
+      "elo_rank_hard": 1709
+    },
+    {
+      "id": "VA25",
+      "name": "Valentin Vacherot",
+      "elo_rank_hard": 1831
+    }
+  ]
+}

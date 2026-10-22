@@ -1,0 +1,218 @@
+{
+  "checked_at": "2026-10-22T19:15:54.017023+02:00",
+  "analysis_dir": "analysis/20261022T191519+0200",
+  "source": "https://eu1.offering-api.kambicdn.com/offering/v2018/svenskaspel/listView/tennis/atp/all/all/matches.json?channel_id=1&client_id=200&lang=sv_SE&market=SE&useCombined=true&useCombinedLive=true",
+  "matches": [
+    {
+      "bet_id": "20261022T123506+0200-1029578799-ME82",
+      "player": "Adrian Mannarino",
+      "opponent": "Nikoloz Basilashvili",
+      "database_results": [],
+      "current_event": {
+        "id": 1029578799,
+        "name": "Nikoloz Basilashvili - Adrian Mannarino",
+        "nameDelimiter": "-",
+        "englishName": "Nikoloz Basilashvili - Adrian Mannarino",
+        "homeName": "Nikoloz Basilashvili",
+        "awayName": "Adrian Mannarino",
+        "start": "2026-10-23T06:30:00Z",
+        "group": "Almaty",
+        "groupId": 2010203056,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "termKey": "atp"
+          },
+          {
+            "id": 2010203056,
+            "name": "Almaty",
+            "englishName": "Almaty",
+            "termKey": "almaty"
+          }
+        ],
+        "nonLiveBoCount": 34,
+        "sport": "TENNIS",
+        "tags": [
+          "STREAMED_WEB",
+          "OFFERED_LIVE",
+          "BET_BUILDER",
+          "STREAMED_MOBILE",
+          "MATCH"
+        ],
+        "state": "NOT_STARTED"
+      },
+      "live_data": null
+    },
+    {
+      "bet_id": "20261022T162515+0200-1029581066-C0AU",
+      "player": "Francisco Cerundolo",
+      "opponent": "Clement Chidekh",
+      "database_results": [],
+      "current_event": {
+        "id": 1029581066,
+        "name": "Clement Chidekh - Francisco Cerundolo",
+        "nameDelimiter": "-",
+        "englishName": "Clement Chidekh - Francisco Cerundolo",
+        "homeName": "Clement Chidekh",
+        "awayName": "Francisco Cerundolo",
+        "start": "2026-10-23T12:00:00Z",
+        "group": "Bryssel",
+        "groupId": 2010205615,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "termKey": "atp"
+          },
+          {
+            "id": 2010205615,
+            "name": "Bryssel",
+            "englishName": "Brussels",
+            "termKey": "brussels"
+          }
+        ],
+        "nonLiveBoCount": 34,
+        "sport": "TENNIS",
+        "tags": [
+          "OFFERED_LIVE",
+          "BET_BUILDER",
+          "MATCH"
+        ],
+        "state": "NOT_STARTED"
+      },
+      "live_data": null
+    }
+  ],
+  "eligible": [
+    {
+      "id": 1029571655,
+      "name": "Kyrian Jacquet - Brandon Nakashima",
+      "group": "Lyon",
+      "start": "2026-10-22T18:10:00Z",
+      "offer_id": 2706575167,
+      "outcomes": [
+        {
+          "id": 4383536574,
+          "participant": "Kyrian Jacquet",
+          "odds": 2.75
+        },
+        {
+          "id": 4383536575,
+          "participant": "Brandon Nakashima",
+          "odds": 1.46
+        }
+      ]
+    },
+    {
+      "id": 1029578799,
+      "name": "Nikoloz Basilashvili - Adrian Mannarino",
+      "group": "Almaty",
+      "start": "2026-10-23T06:30:00Z",
+      "offer_id": 2706810323,
+      "outcomes": [
+        {
+          "id": 4384222195,
+          "participant": "Nikoloz Basilashvili",
+          "odds": 1.68
+        },
+        {
+          "id": 4384222196,
+          "participant": "Adrian Mannarino",
+          "odds": 2.18
+        }
+      ]
+    },
+    {
+      "id": 1029581167,
+      "name": "Stefanos Tsitsipas - James Duckworth",
+      "group": "Almaty",
+      "start": "2026-10-23T08:00:00Z",
+      "offer_id": 2706853314,
+      "outcomes": [
+        {
+          "id": 4384356693,
+          "participant": "Stefanos Tsitsipas",
+          "odds": 1.21
+        },
+        {
+          "id": 4384356694,
+          "participant": "James Duckworth",
+          "odds": 4.35
+        }
+      ]
+    },
+    {
+      "id": 1029583533,
+      "name": "Corentin Moutet - Tommy Paul",
+      "group": "Lyon",
+      "start": "2026-10-23T12:00:00Z",
+      "offer_id": 2707064653,
+      "outcomes": [
+        {
+          "id": 4385014804,
+          "participant": "Corentin Moutet",
+          "odds": 3.9
+        },
+        {
+          "id": 4385057145,
+          "participant": "Tommy Paul",
+          "odds": 1.25
+        }
+      ]
+    },
+    {
+      "id": 1029581066,
+      "name": "Clement Chidekh - Francisco Cerundolo",
+      "group": "Bryssel",
+      "start": "2026-10-23T12:00:00Z",
+      "offer_id": 2706871062,
+      "outcomes": [
+        {
+          "id": 4384366701,
+          "participant": "Francisco Cerundolo",
+          "odds": 1.56
+        },
+        {
+          "id": 4384366702,
+          "participant": "Clement Chidekh",
+          "odds": 2.43
+        }
+      ]
+    },
+    {
+      "id": 1029591147,
+      "name": "Tallon Griekspoor - Jiri Lehecka",
+      "group": "Bryssel",
+      "start": "2026-10-23T14:00:00Z",
+      "offer_id": 2707193174,
+      "outcomes": [
+        {
+          "id": 4385476254,
+          "participant": "Tallon Griekspoor",
+          "odds": 3.35
+        },
+        {
+          "id": 4385476255,
+          "participant": "Jiri Lehecka",
+          "odds": 1.33
+        }
+      ]
+    }
+  ],
+  "odds_feed": "ok"
+}
