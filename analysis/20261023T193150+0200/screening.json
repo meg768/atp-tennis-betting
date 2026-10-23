@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1029592176,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-23T18:10:00Z",
+    "player": {
+      "id": "V0DZ",
+      "name": "Luca Van Assche",
+      "rank": 48,
+      "age": 22,
+      "elo_rank_hard": 1709
+    },
+    "opponent": {
+      "id": "M0EJ",
+      "name": "Lorenzo Musetti",
+      "rank": 26,
+      "age": 24,
+      "elo_rank_hard": 1778
+    },
+    "ss": 2.95,
+    "ta": 2.37,
+    "p": 0.4019862342306564,
+    "ta_ev": 0.18585939098043647,
+    "gap": 0.2447257383966246,
+    "outcome_id": 4385875541,
+    "offer_id": 2707361257
+  },
+  {
+    "id": 1029601788,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-24T10:00:00Z",
+    "player": {
+      "id": "TE51",
+      "name": "Stefanos Tsitsipas",
+      "rank": 39,
+      "age": 28,
+      "elo_rank_hard": 1855
+    },
+    "opponent": {
+      "id": "BG23",
+      "name": "Nikoloz Basilashvili",
+      "rank": 128,
+      "age": 34,
+      "elo_rank_hard": 1603
+    },
+    "ss": 1.38,
+    "ta": 1.18,
+    "p": 0.8100951586047567,
+    "ta_ev": 0.1179313188745641,
+    "gap": 0.1694915254237288,
+    "outcome_id": 4386502084,
+    "offer_id": 2707514763
+  },
+  {
+    "id": 1029593429,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-23T17:45:00Z",
+    "player": {
+      "id": "SL28",
+      "name": "Jan-Lennard Struff",
+      "rank": 58,
+      "age": 36,
+      "elo_rank_hard": 1667
+    },
+    "opponent": {
+      "id": "BU13",
+      "name": "Zizou Bergs",
+      "rank": 41,
+      "age": 27,
+      "elo_rank_hard": 1755
+    },
+    "ss": 2.7,
+    "ta": 2.53,
+    "p": 0.37599824138233284,
+    "ta_ev": 0.015195251732298853,
+    "gap": 0.06719367588932812,
+    "outcome_id": 4385857010,
+    "offer_id": 2707355151
+  },
+  {
+    "id": 1029593429,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-23T17:45:00Z",
+    "player": {
+      "id": "BU13",
+      "name": "Zizou Bergs",
+      "rank": 41,
+      "age": 27,
+      "elo_rank_hard": 1755
+    },
+    "opponent": {
+      "id": "SL28",
+      "name": "Jan-Lennard Struff",
+      "rank": 58,
+      "age": 36,
+      "elo_rank_hard": 1667
+    },
+    "ss": 1.46,
+    "ta": 1.53,
+    "p": 0.6240017586176672,
+    "ta_ev": -0.08895743241820597,
+    "gap": -0.045751633986928164,
+    "outcome_id": 4385857011,
+    "offer_id": 2707355151
+  },
+  {
+    "id": 1029592176,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-23T18:10:00Z",
+    "player": {
+      "id": "M0EJ",
+      "name": "Lorenzo Musetti",
+      "rank": 26,
+      "age": 24,
+      "elo_rank_hard": 1778
+    },
+    "opponent": {
+      "id": "V0DZ",
+      "name": "Luca Van Assche",
+      "rank": 48,
+      "age": 22,
+      "elo_rank_hard": 1709
+    },
+    "ss": 1.4,
+    "ta": 1.59,
+    "p": 0.5980137657693436,
+    "ta_ev": -0.16278072792291898,
+    "gap": -0.11949685534591203,
+    "outcome_id": 4385875542,
+    "offer_id": 2707361257
+  },
+  {
+    "id": 1029601788,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-24T10:00:00Z",
+    "player": {
+      "id": "BG23",
+      "name": "Nikoloz Basilashvili",
+      "rank": 128,
+      "age": 34,
+      "elo_rank_hard": 1603
+    },
+    "opponent": {
+      "id": "TE51",
+      "name": "Stefanos Tsitsipas",
+      "rank": 39,
+      "age": 28,
+      "elo_rank_hard": 1855
+    },
+    "ss": 3.0,
+    "ta": 5.02,
+    "p": 0.1899048413952433,
+    "ta_ev": -0.4302854758142701,
+    "gap": -0.40239043824701193,
+    "outcome_id": 4386502083,
+    "offer_id": 2707514763
+  }
+]

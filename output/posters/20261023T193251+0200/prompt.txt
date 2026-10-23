@@ -1,0 +1,20 @@
+Use case: productivity-visual. Create a clean portrait Swedish tennis status poster for a phone notification. Dark navy background, white type, lime green accents. Main title SPELSTATUS, subtitle 23 oktober 2026 · kl. 19.32 svensk tid. Three clearly separated cards labeled SPEL 1, SPEL 2 and SPEL 3. Only SPEL 1 contains an already booked bet, Luca Van Assche vs Lorenzo Musetti. SPEL 2 and SPEL 3 each say Ledigt. No new badges. Prominent Svenska Spel (låst), TA, Diff comparison on SPEL 1. Clear, readable, generous margins. Include all the following exact text accurately. The Cerundolo result is historical, not a new settlement in this ping:
+Spelstatus 23/10 kl. 19.32
+Pappersportfölj
+Inga nya spel.
+Spel 1: Luca Van Assche mot Lorenzo Musetti
+Spel bokfört – inväntar matchstart
+Lyon, 23/10 20.10 (prel.) | 100,00 kr
+Svenska Spel (låst) 2,90 | TA 2,37 | Diff +7,7 pp
+Spel 2: Ledigt
+Spel 3: Ledigt
+Pappersnetto -244,00 kr | Öppen insats 100,00 kr
+Avgjorda matcher: 4
+Totalt bokförda spel: 5
+Senast avräknat: Cerundolo vann 6–2, 6–4 · netto +56 kr
+Inga nya avräkningar vid detta ping.
+Två lediga platser: inget tillräckligt tydligt spelvärde.
+TA inkluderar 5 % marginal. Diff i procentenheter är inte förväntad avkastning.
+Oddsen avser bokföringstillfället.
+Bekräftade faktiska spel: netto −200 kr · öppen insats 0 kr
+Faktiska spel ingår även i pappersserien.

@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "source_file": "/Users/magnus/.codex/generated_images/01a15f92-4e69-77a0-827b-06353e250b64/exec-6737ea29-7c60-4766-a13c-23eed80b5235.png",
+  "poster_file": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261023T055809+0200/spelstatus.png",
+  "prompt_file": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261023T055809+0200/prompt.txt",
+  "bytes": 1968322,
+  "width": 1086,
+  "height": 1448,
+  "sha256": "8dd71743cd42faddcabc29ddbd28f10ae359925e17f994cef8dc38eacd2390b3",
+  "visual_check": "Alla tre matchpar, låsta Svenska Spel-odds, TA-odds, differenser i pp, insatser, tider, kontrolltid, väntestatus och totaler överensstämmer med kontrollfilen. 2 avgjorda och 5 bokförda spel. Faktiska summor anges separat."
+}

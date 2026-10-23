@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1029592679,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-23T16:30:00Z",
+    "status": "NOT_STARTED",
+    "offer_id": 2707349501,
+    "players": [
+      {
+        "id": "F0F1",
+        "name": "Arthur Fils",
+        "rank": 10,
+        "elo_rank_hard": 1961,
+        "provider_name": "Arthur Fils",
+        "odds": 1.5,
+        "outcome_id": 4385898524
+      },
+      {
+        "id": "M0QI",
+        "name": "Alex Michelsen",
+        "rank": 37,
+        "elo_rank_hard": 1836,
+        "provider_name": "Alex Michelsen",
+        "odds": 2.55,
+        "outcome_id": 4385898525
+      }
+    ],
+    "probability_first": 0.672509643334985,
+    "already_booked": false
+  },
+  {
+    "id": 1029594891,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-23T17:00:00Z",
+    "status": "NOT_STARTED",
+    "offer_id": 2707355935,
+    "players": [
+      {
+        "id": "C0E9",
+        "name": "Flavio Cobolli",
+        "rank": 6,
+        "elo_rank_hard": 1790,
+        "provider_name": "Flavio Cobolli",
+        "odds": 2.65,
+        "outcome_id": 4385918059
+      },
+      {
+        "id": "N0AE",
+        "name": "Brandon Nakashima",
+        "rank": 17,
+        "elo_rank_hard": 1868,
+        "provider_name": "Brandon Nakashima",
+        "odds": 1.48,
+        "outcome_id": 4385918060
+      }
+    ],
+    "probability_first": 0.389597577905311,
+    "already_booked": false
+  },
+  {
+    "id": 1029593429,
+    "event_id": "2026-7485",
+    "tournament": "Bryssel",
+    "surface": "Hard",
+    "start": "2026-10-23T17:40:00Z",
+    "status": "NOT_STARTED",
+    "offer_id": 2707355151,
+    "players": [
+      {
+        "id": "SL28",
+        "name": "Jan-Lennard Struff",
+        "rank": 58,
+        "elo_rank_hard": 1667,
+        "provider_name": "Jan-Lennard Struff",
+        "odds": 2.7,
+        "outcome_id": 4385857010
+      },
+      {
+        "id": "BU13",
+        "name": "Zizou Bergs",
+        "rank": 41,
+        "elo_rank_hard": 1755,
+        "provider_name": "Zizou Bergs",
+        "odds": 1.46,
+        "outcome_id": 4385857011
+      }
+    ],
+    "probability_first": 0.37599824138233284,
+    "already_booked": false
+  },
+  {
+    "id": 1029592176,
+    "event_id": "2026-496",
+    "tournament": "Lyon",
+    "surface": "Hard",
+    "start": "2026-10-23T18:10:00Z",
+    "status": "NOT_STARTED",
+    "offer_id": 2707361257,
+    "players": [
+      {
+        "id": "V0DZ",
+        "name": "Luca Van Assche",
+        "rank": 48,
+        "elo_rank_hard": 1709,
+        "provider_name": "Luca Van Assche",
+        "odds": 2.95,
+        "outcome_id": 4385875541
+      },
+      {
+        "id": "M0EJ",
+        "name": "Lorenzo Musetti",
+        "rank": 26,
+        "elo_rank_hard": 1778,
+        "provider_name": "Lorenzo Musetti",
+        "odds": 1.4,
+        "outcome_id": 4385875542
+      }
+    ],
+    "probability_first": 0.4019862342306564,
+    "already_booked": true
+  },
+  {
+    "id": 1029601788,
+    "event_id": "2026-9410",
+    "tournament": "Almaty",
+    "surface": "Hard",
+    "start": "2026-10-24T10:00:00Z",
+    "status": "NOT_STARTED",
+    "offer_id": 2707514763,
+    "players": [
+      {
+        "id": "BG23",
+        "name": "Nikoloz Basilashvili",
+        "rank": 128,
+        "elo_rank_hard": 1603,
+        "provider_name": "Nikoloz Basilashvili",
+        "odds": 3.0,
+        "outcome_id": 4386502083
+      },
+      {
+        "id": "TE51",
+        "name": "Stefanos Tsitsipas",
+        "rank": 39,
+        "elo_rank_hard": 1855,
+        "provider_name": "Stefanos Tsitsipas",
+        "odds": 1.38,
+        "outcome_id": 4386502084
+      }
+    ],
+    "probability_first": 0.1899048413952433,
+    "already_booked": false
+  }
+]

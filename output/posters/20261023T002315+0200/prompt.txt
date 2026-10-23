@@ -1,0 +1,19 @@
+Use case: productivity-visual. Asset type: Swedish tennis status poster for a phone push notification. Create a clean portrait poster, dark navy background, white text, tennis green accents. Main title SPELSTATUS. Three equal cards labeled SPEL 1, SPEL 2 and SPEL 3. No photos. Large readable type, high contrast, generous margins. Show all following text accurately, retaining all numbers, names and statuses. No new badges, no invented information. All times are Swedish. Text:
+Spelstatus 23/10 kl. 00.23
+Pappersportfölj
+Inga nya spel.
+Spel 1: Adrian Mannarino mot Nikoloz Basilashvili
+Spel bokfört – inväntar matchstart
+Almaty, 23/10 08.30 (prel.) | Odds 2,18 | 100,00 kr
+Spel 2: Francisco Cerundolo mot Clement Chidekh
+Spel bokfört – inväntar matchstart
+Bryssel, 23/10 14.00 (prel.) | Odds 1,56 | 100,00 kr
+Spel 3: Luca Van Assche mot Lorenzo Musetti
+Spel bokfört – inväntar matchstart
+Lyon, 23/10 20.10 (prel.) | Odds 2,90 | 100,00 kr
+Pappersnetto -200,00 kr | Öppen insats 300,00 kr
+Avgjorda matcher: 2
+Totalt bokförda spel: 5
+Bekräftade faktiska spel: netto −200 kr · öppen insats 0 kr
+Faktiska spel ingår även i pappersserien.
+Inga faktiska spel placeras genom denna sammanställning.

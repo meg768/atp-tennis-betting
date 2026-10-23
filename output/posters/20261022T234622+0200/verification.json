@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "source_file": "/Users/magnus/.codex/generated_images/01a15f92-4e69-77a0-827b-06353e250b64/exec-1396d9fa-38d5-47dc-ace7-93fca60acc6c.png",
+  "poster_file": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261022T234622+0200/tre-bokforda-spel.png",
+  "prompt_file": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261022T234622+0200/prompt.txt",
+  "bytes": 1997015,
+  "width": 1086,
+  "height": 1448,
+  "sha256": "01c70f8bd145a298e1f56288dff44e8fd98fba86331e5184bf7a7bbf4f09519f",
+  "visual_check": "Alla tre spelare och motståndare, låsta odds, TA-odds, insatser, datum/tider, väntestatus, kontrolltid och papperssummor överensstämmer med detta ping."
+}

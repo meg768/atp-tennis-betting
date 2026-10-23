@@ -1,0 +1,31 @@
+{
+  "sql": "SELECT id,name,date,type,surface FROM events WHERE id IN (%s,%s,%s)",
+  "params": [
+    "2026-9410",
+    "2026-7485",
+    "2026-496"
+  ],
+  "rows": [
+    {
+      "id": "2026-496",
+      "name": "Lyon",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    {
+      "id": "2026-7485",
+      "name": "Brussels",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    {
+      "id": "2026-9410",
+      "name": "Almaty",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    }
+  ]
+}

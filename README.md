@@ -71,7 +71,21 @@ samtidigt. Oförändrat läge ger en kort statusrapport, inga nya spel.
 Låsta odds och insatser finns i `tracking/bets.json`; matchutfall och netto
 sammanställs i [tracking/overview.md](tracking/overview.md).
 Avräkningsregler och loggformat beskrivs i [tracking/README.md](tracking/README.md).
-Uppföljningen görs manuellt vid ping. Ingen schemalagd körning är aktiverad.
+Uppföljningen görs vid manuellt ping och, på Magnus uttryckliga begäran den
+22 oktober 2026, automatiskt var sjätte timme i denna chatt. Automationen
+”ATP-ping var sjätte timme” kräver att Macen är vaken och uppkopplad med appen
+igång eftersom filer och skills är lokala. Detta ersätter äldre uppgifter
+om att ingen schemaläggning är aktiverad, även i sparad kontext.
+Efter varje ping skickas en affisch via den gemensamma **pushover**-skillen
+med rubriken ”Spelstatus” och platserna ”Spel 1”, ”Spel 2” och ”Spel 3”:
+spelare, låst Svenska Spel-odds jämfört med TA-odds vid bokföringen,
+diff i implicerad sannolikhet (procentenheter), insats och starttid eller
+”Ledigt”. Nya spel markeras, pågående matcher visar tillgänglig ställning och
+oklar status anges uttryckligen. Affischen visar också antal avgjorda matcher
+och totalt antal bokförda spel i aktuell serie. Ingen separat textsammanfattning skickas;
+Pushover kräver ett textfält, som enbart innehåller ”Spelstatus”.
+Rutinen och skyddet mot dubbla
+utskick beskrivs i `tracking/README.md`.
 
 ## Gemensamma verktyg
 

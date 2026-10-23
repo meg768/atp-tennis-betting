@@ -13,7 +13,11 @@ affischer visar den tidigare serien.
 
 ## Ping och de tre spelplatserna
 
-Magnus skriver ”ping” när uppföljning önskas. Kör ingen schemaläggning.
+Magnus kan skriva ”ping” när uppföljning önskas. På hans uttryckliga begäran
+den 22 oktober 2026 kör också automationen ”ATP-ping var sjätte timme” samma
+rutin i denna chatt var sjätte timme. Macen behöver vara vaken, uppkopplad
+och ha appen igång för åtkomst till lokala filer och skills. Denna beställning
+ersätter äldre instruktioner mot schemaläggning, även i sparad kontext.
 Använd enbart den gemensamma skillen `atp-tennis` för databasåtkomst och
 Svenska Spels aktuella odds och matchstatus. Skillens verktyg och Python
 finns under `~/.agents/skills/atp-tennis`; projektet har ingen egen anslutning.
@@ -53,6 +57,61 @@ inte visas som ”Kommande” bland de tre spelplatserna.
    uppskjuten/oklar, starttid i svensk tid, låsta odds och insats. Visa nya
    avräkningar med slutresultat och netto, motivera eventuella nya val och
    redovisa ackumulerat netto och öppen insats.
+6. Skicka en Pushover-notifiering för detta ping enligt rutinen nedan.
+
+## Pushover efter varje ping
+
+Magnus har godkänt en notifiering efter varje manuellt och schemalagt ping. När bokföring
+och kontrollfil är sparade: skapa en aktuell affisch med inbyggda imagegen,
+spara bild, prompt och data under `output/posters/` och granska att uppgifterna
+stämmer med detta ping. Använd sedan den gemensamma `pushover`-skillen via
+projektets sammanställningsskript:
+
+```sh
+python3 scripts/notify_new_bets.py tracking/checks/<detta-pings-tidsstämpel>.json --attachment /absolut/sökväg/till/aktuell-affisch.png
+```
+
+Kontrollfilen ska innehålla `portfolio_id`, `checked_at`, `bets` med aktuella
+observationer och `new_bets` med enbart de spel-ID som bokfördes under detta
+ping. Affischen har rubriken **”Spelstatus”** och visar **”Spel 1”, ”Spel 2”
+och ”Spel 3”**, även utan nya spel.
+Öppna spel hämtas från kontrollfilens observationer; avräknade spel tar ingen
+plats. Namn, låst Svenska Spel-odds, TA-odds vid bokföringen och insats läses
+från `bets.json`. Visa Svenska Spel och TA bredvid varandra för varje spel,
+med diff `(1/TA − 1/Svenska Spel) × 100` i procentenheter (pp).
+TA:s befintliga 5 % marginal behålls; diffen är inte förväntad avkastning.
+Visa jämförelsen i både chattrapporten och affischen. Visa turnering,
+preliminär svensk starttid och aktuell status: bokfört/inväntar matchstart,
+pågående med tillgänglig ställning, uppskjutet eller oklart. Visa ”Ledigt” för
+tomma spelplatser och markera nya spel med `[NYTT]`. Dra inte slutsatser om status från
+klockslaget. Pappersnetto och öppen pappersinsats visas när de finns i kontrollen.
+Visa även ”Avgjorda matcher: N” och ”Totalt bokförda spel: M” för den aktuella
+serien. Räkna avgjorda som `won` eller `lost` enligt senaste avräkningen per
+spel; öppna spel ingår bara i totalt bokförda. Redovisa eventuella `void`
+separat. Räkna varje match en gång, även när faktisk insats har bekräftats;
+arkiverade serier ingår inte.
+Tydliggör att sammanställningen avser pappersportföljen; inga faktiska spel
+placeras genom notifieringen. Skicka inte tidigare öppna spel igen som nya
+och skapa inga retroaktiva notifieringar för ping före överenskommelsen.
+
+Skriptet anropar `~/.agents/skills/pushover/scripts/send_pushover.py` med normal
+prioritet och standardmottagaren. Inloggningsnycklar hanteras bara av skillen,
+utanför detta repo. Skicka enbart affischen och det obligatoriska textfältet
+”Spelstatus”; ingen extra textsammanfattning. Om bilden inte kan skapas eller
+skickas, rapportera felet i chatten utan automatisk textnotifiering som reserv.
+`--preview` visar bildtext och bilagans sökväg utan att skicka eller skapa kvitto.
+Textläget utan `--attachment` finns kvar för uttryckliga textförfrågningar.
+
+Ett kvitto per ping sparas i `notifications/`. `accepted` betyder att Pushover
+accepterade anropet, inte att meddelandet lästs. Ett tidigare försök för samma
+ping spärrar omsändning, även efter avbrott eller osäkert nätverksutfall.
+Rapportera misslyckad/osäker notifiering i chatten; gör inget automatiskt
+omförsök och ändra inte redan bokförda spel på grund av notifieringsfel.
+En ny ping-kontroll får en ny tidsstämpel och därmed en egen notifiering.
+
+Notifieringen skickas när ett manuellt eller schemalagt ping hanteras,
+även vid oförändrat läge. Testa formatet med `--preview` och mockade tester, inte genom
+att skicka extra testnotifieringar.
 
 Om ett nytt ping kommer efter fem minuter och inget har ändrats: skapa inga
 nya spel eller dubbla avräkningar. Visa bara kort aktuell status för befintliga
@@ -153,6 +212,6 @@ Det behövs ingen ständig livebevakning för resultatbokföringen: kontrollera
 samtliga öppna spel vid nästa körning. Nya rekommendationer måste däremot
 registreras före matchstart; skapa aldrig historiska tips i efterhand.
 
-Ingen schemalagd uppföljning är aktiverad. Automationen ”Dagliga ATP-tips och
-spelresultat” som kördes dagligen kl. 07.00 togs bort på Magnus begäran den
-21 oktober 2026. Skapa inte en ersättare utan en ny instruktion från Magnus.
+Den tidigare automationen ”Dagliga ATP-tips och spelresultat” kl. 07.00 togs
+bort på Magnus begäran den 21 oktober 2026. Den nya automationen var sjätte
+timme beställdes uttryckligen den 22 oktober och återaktiverar inte 07.00-rutinen.

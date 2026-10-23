@@ -1,0 +1,40 @@
+Use case: productivity-visual. Create a polished Swedish tennis portfolio status poster, portrait 3:4, for a phone notification. Dark navy and deep green tennis court stadium, subtle floodlights, off-white crisp highly legible typography, restrained lime accents. Three spacious stacked cards labeled Spel 1, Spel 2, Spel 3. Give the first two cards full match details and show the third as explicitly vacant. No logos or player portraits, no invented scores, no promotional claims. All numbers and Swedish text must be accurate. This is a paper portfolio and the two match odds are locked at booking, not current market odds. Show the Svenska Spel and TA values side by side and preserve comma decimals. Header "Spelstatus". Subtitle "Pappersportfölj • 100 kr per match". Timestamp "Kontrollerat 23 oktober 2026 kl. 11.57". Text "Inga nya spel".
+
+CARD 1 exact text:
+"Spel 1"
+"Francisco Cerúndolo"
+"mot Clément Chidekh"
+"Bryssel • 23/10 kl. 14.00"
+"Svenska Spel 1,56 | TA 1,21"
+"Diff +18,5 pp • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+CARD 2 exact text:
+"Spel 2"
+"Luca Van Assche"
+"mot Lorenzo Musetti"
+"Lyon • 23/10 kl. 20.10"
+"Svenska Spel 2,90 | TA 2,37"
+"Diff +7,7 pp • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+CARD 3 exact text:
+"Spel 3"
+"Ledigt"
+"Inget nytt spel med tillräckligt tydligt värde"
+
+Totals panel:
+"Pappersnetto −300 kr"
+"Öppen pappersinsats 200 kr"
+"Avgjorda matcher: 3 • Totalt bokförda spel: 5"
+
+Small recent-result line:
+"Senast avgjort: Mannarino förlorade 3–6, 1–6 • Netto −100 kr"
+
+Readable footer:
+"Bekräftat faktiskt netto −200 kr • Öppen faktisk insats 0 kr"
+"Faktiska spel ingår även i pappersserien."
+"Låsta odds. Svensk tid. Starttider preliminära."
+"TA inkluderar 5 % marginal. Diff i procentenheter."
+
+Keep a clean editorial layout and enough space for the footer. Spell every name and number exactly. Do not show Mannarino as an open third bet. There are exactly two open paper bets and one empty slot. All past results and bankroll amounts must remain distinct from the current open cards.

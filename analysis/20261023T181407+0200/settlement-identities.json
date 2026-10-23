@@ -1,0 +1,19 @@
+{
+  "sql": "SELECT id,name,country FROM players WHERE id IN (%s,%s)",
+  "params": [
+    "C0AU",
+    "C0BH"
+  ],
+  "rows": [
+    {
+      "id": "C0AU",
+      "name": "Francisco Cerundolo",
+      "country": "ARG"
+    },
+    {
+      "id": "C0BH",
+      "name": "Clement Chidekh",
+      "country": "FRA"
+    }
+  ]
+}

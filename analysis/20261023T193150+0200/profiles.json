@@ -1,0 +1,44 @@
+{
+  "Jan-Lennard Struff": {
+    "id": "SL28",
+    "name": "Jan-Lennard Struff",
+    "rank": 58,
+    "age": 36,
+    "elo_rank_hard": 1667
+  },
+  "Lorenzo Musetti": {
+    "id": "M0EJ",
+    "name": "Lorenzo Musetti",
+    "rank": 26,
+    "age": 24,
+    "elo_rank_hard": 1778
+  },
+  "Luca Van Assche": {
+    "id": "V0DZ",
+    "name": "Luca Van Assche",
+    "rank": 48,
+    "age": 22,
+    "elo_rank_hard": 1709
+  },
+  "Nikoloz Basilashvili": {
+    "id": "BG23",
+    "name": "Nikoloz Basilashvili",
+    "rank": 128,
+    "age": 34,
+    "elo_rank_hard": 1603
+  },
+  "Stefanos Tsitsipas": {
+    "id": "TE51",
+    "name": "Stefanos Tsitsipas",
+    "rank": 39,
+    "age": 28,
+    "elo_rank_hard": 1855
+  },
+  "Zizou Bergs": {
+    "id": "BU13",
+    "name": "Zizou Bergs",
+    "rank": 41,
+    "age": 27,
+    "elo_rank_hard": 1755
+  }
+}

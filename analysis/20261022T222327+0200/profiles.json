@@ -1,0 +1,178 @@
+{
+  "Nikoloz Basilashvili": {
+    "id": "BG23",
+    "name": "Nikoloz Basilashvili",
+    "rank": 128,
+    "elo_rank_hard": 1603,
+    "elo_rank_clay": 1584,
+    "elo_rank_grass": 1576
+  },
+  "Adrian Mannarino": {
+    "id": "ME82",
+    "name": "Adrian Mannarino",
+    "rank": 79,
+    "elo_rank_hard": 1664,
+    "elo_rank_clay": 1498,
+    "elo_rank_grass": 1657
+  },
+  "Stefanos Tsitsipas": {
+    "id": "TE51",
+    "name": "Stefanos Tsitsipas",
+    "rank": 39,
+    "elo_rank_hard": 1855,
+    "elo_rank_clay": 1898,
+    "elo_rank_grass": 1712
+  },
+  "James Duckworth": {
+    "id": "D994",
+    "name": "James Duckworth",
+    "rank": 73,
+    "elo_rank_hard": 1625,
+    "elo_rank_clay": 1591,
+    "elo_rank_grass": 1567
+  },
+  "Daniil Medvedev": {
+    "id": "MM58",
+    "name": "Daniil Medvedev",
+    "rank": 5,
+    "elo_rank_hard": 1955,
+    "elo_rank_clay": 1890,
+    "elo_rank_grass": 1854
+  },
+  "Terence Atmane": {
+    "id": "A0GC",
+    "name": "Terence Atmane",
+    "rank": 98,
+    "elo_rank_hard": 1683,
+    "elo_rank_clay": 1634,
+    "elo_rank_grass": 1546
+  },
+  "Corentin Moutet": {
+    "id": "MW02",
+    "name": "Corentin Moutet",
+    "rank": 94,
+    "elo_rank_hard": 1694,
+    "elo_rank_clay": 1677,
+    "elo_rank_grass": 1617
+  },
+  "Tommy Paul": {
+    "id": "PL56",
+    "name": "Tommy Paul",
+    "rank": 15,
+    "elo_rank_hard": 1886,
+    "elo_rank_clay": 1885,
+    "elo_rank_grass": 1797
+  },
+  "Francisco Cerundolo": {
+    "id": "C0AU",
+    "name": "Francisco Cerundolo",
+    "rank": 21,
+    "elo_rank_hard": 1840,
+    "elo_rank_clay": 1848,
+    "elo_rank_grass": 1739
+  },
+  "Clement Chidekh": {
+    "id": "C0BH",
+    "name": "Clement Chidekh",
+    "rank": 152,
+    "elo_rank_hard": 1616,
+    "elo_rank_clay": 1420,
+    "elo_rank_grass": 1548
+  },
+  "Taylor Fritz": {
+    "id": "FB98",
+    "name": "Taylor Fritz",
+    "rank": 14,
+    "elo_rank_hard": 1861,
+    "elo_rank_clay": 1771,
+    "elo_rank_grass": 1872
+  },
+  "Daniel Altmaier": {
+    "id": "AE14",
+    "name": "Daniel Altmaier",
+    "rank": 65,
+    "elo_rank_hard": 1627,
+    "elo_rank_clay": 1682,
+    "elo_rank_grass": 1582
+  },
+  "Tallon Griekspoor": {
+    "id": "GJ37",
+    "name": "Tallon Griekspoor",
+    "rank": 60,
+    "elo_rank_hard": 1741,
+    "elo_rank_clay": 1711,
+    "elo_rank_grass": 1686
+  },
+  "Jiri Lehecka": {
+    "id": "L0BV",
+    "name": "Jiri Lehecka",
+    "rank": 20,
+    "elo_rank_hard": 1921,
+    "elo_rank_clay": 1848,
+    "elo_rank_grass": 1831
+  },
+  "Alexander Bublik": {
+    "id": "BK92",
+    "name": "Alexander Bublik",
+    "rank": 19,
+    "elo_rank_hard": 1837,
+    "elo_rank_clay": 1824,
+    "elo_rank_grass": 1814
+  },
+  "Karen Khachanov": {
+    "id": "KE29",
+    "name": "Karen Khachanov",
+    "rank": 25,
+    "elo_rank_hard": 1810,
+    "elo_rank_clay": 1802,
+    "elo_rank_grass": 1744
+  },
+  "Arthur Fils": {
+    "id": "F0F1",
+    "name": "Arthur Fils",
+    "rank": 10,
+    "elo_rank_hard": 1961,
+    "elo_rank_clay": 1955,
+    "elo_rank_grass": 1796
+  },
+  "Alex Michelsen": {
+    "id": "M0QI",
+    "name": "Alex Michelsen",
+    "rank": 37,
+    "elo_rank_hard": 1836,
+    "elo_rank_clay": 1712,
+    "elo_rank_grass": 1718
+  },
+  "Jan-Lennard Struff": {
+    "id": "SL28",
+    "name": "Jan-Lennard Struff",
+    "rank": 58,
+    "elo_rank_hard": 1667,
+    "elo_rank_clay": 1687,
+    "elo_rank_grass": 1692
+  },
+  "Zizou Bergs": {
+    "id": "BU13",
+    "name": "Zizou Bergs",
+    "rank": 41,
+    "elo_rank_hard": 1755,
+    "elo_rank_clay": 1693,
+    "elo_rank_grass": 1721
+  },
+  "Luca Van Assche": {
+    "id": "V0DZ",
+    "name": "Luca Van Assche",
+    "rank": 48,
+    "elo_rank_hard": 1709,
+    "elo_rank_clay": 1719,
+    "elo_rank_grass": 1575
+  },
+  "Lorenzo Musetti": {
+    "id": "M0EJ",
+    "name": "Lorenzo Musetti",
+    "rank": 26,
+    "elo_rank_hard": 1778,
+    "elo_rank_clay": 1840,
+    "elo_rank_grass": 1737
+  }
+}

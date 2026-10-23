@@ -1,0 +1,44 @@
+Use case: productivity-visual. Asset type: Swedish tennis experiment status poster for a phone notification. Create one polished portrait 3:4 poster, dark navy and deep green tennis stadium with subtle court lines and lights, off-white typography and restrained lime accents. Prioritize large crisp legible accurate Swedish text over decoration. Three spacious stacked cards. No player portraits, no logos, no claims of guaranteed profit. Preserve all exact text below. These three are paper bets already booked, waiting for start, not new picks. No scores or badges. Show Svenska Spel and TA odds side by side; their locked values must not be replaced with current prices.
+
+Header: "Spelstatus"
+Subtitle: "Pappersportfölj • 100 kr per match"
+Timestamp: "Kontrollerat 23 oktober 2026 kl. 05.58"
+Small text: "Inga nya spel"
+
+Card 1:
+"Spel 1"
+"Adrian Mannarino"
+"mot Nikoloz Basilashvili"
+"Almaty • 23/10 kl. 08.30"
+"Svenska Spel 2,18 | TA 1,62"
+"Diff +15,9 pp • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+Card 2:
+"Spel 2"
+"Francisco Cerúndolo"
+"mot Clément Chidekh"
+"Bryssel • 23/10 kl. 14.00"
+"Svenska Spel 1,56 | TA 1,21"
+"Diff +18,5 pp • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+Card 3:
+"Spel 3"
+"Luca Van Assche"
+"mot Lorenzo Musetti"
+"Lyon • 23/10 kl. 20.10"
+"Svenska Spel 2,90 | TA 2,37"
+"Diff +7,7 pp • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+Footer totals, prominent:
+"Pappersnetto −200 kr"
+"Öppen pappersinsats 300 kr"
+"Avgjorda matcher: 2 • Totalt bokförda spel: 5"
+Smaller footer:
+"Bekräftat faktiskt netto −200 kr • Öppen faktisk insats 0 kr"
+"Faktiska spel ingår även i pappersserien."
+"Låsta odds. Svensk tid. Starttider preliminära."
+"TA inkluderar 5 % marginal. Diff i procentenheter."
+Ensure everything fits with generous safe margins. Do not truncate, invent, duplicate or omit any match. Matchcard text must be especially easy to read on a phone. The poster summarizes the current portfolio, with 2 previous settled losses and 3 open paper bets; do not show previous losses as extra cards.

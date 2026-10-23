@@ -1,0 +1,22 @@
+Use case: productivity-visual. Create a clean portrait Swedish tennis status poster for a phone notification. Dark navy background, white type, lime green accents. Main title SPELSTATUS. Subtitle 23 oktober 2026 · kl. 11.53 svensk tid. Three clearly separated cards: SPEL 1 Cerundolo, SPEL 2 Van Assche, SPEL 3 Ledigt. The first two are already booked paper bets; no new badges. Show a prominent Svenska Spel (låst), TA, Diff comparison per occupied card. The third card must say Ledigt. Separate the newly settled Mannarino loss below the three cards. Ensure highly readable accurate text, generous margins. Include all following facts and text verbatim, no invented data:
+Spelstatus 23/10 kl. 11.53
+Pappersportfölj
+Inga nya spel.
+Spel 1: Francisco Cerundolo mot Clement Chidekh
+Spel bokfört – inväntar matchstart
+Bryssel, 23/10 14.00 (prel.) | 100,00 kr
+Svenska Spel (låst) 1,56 | TA 1,21 | Diff +18,5 pp
+Spel 2: Luca Van Assche mot Lorenzo Musetti
+Spel bokfört – inväntar matchstart
+Lyon, 23/10 20.10 (prel.) | 100,00 kr
+Svenska Spel (låst) 2,90 | TA 2,37 | Diff +7,7 pp
+Spel 3: Ledigt
+Pappersnetto -300,00 kr | Öppen insats 200,00 kr
+Avgjorda matcher: 3
+Totalt bokförda spel: 5
+Ny avräkning: Mannarino förlorade 3–6, 1–6 · netto −100 kr
+Inget nytt spel bedöms ha tillräckligt tydligt spelvärde.
+TA inkluderar 5 % marginal. Diff i procentenheter är inte förväntad avkastning.
+Oddsen avser bokföringstillfället.
+Bekräftade faktiska spel: netto −200 kr · öppen insats 0 kr
+Faktiska spel ingår även i pappersserien.

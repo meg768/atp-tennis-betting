@@ -1,0 +1,16 @@
+[
+  {
+    "bet_id": "20261022T123506+0200-1029578799-ME82",
+    "checked_at": "2026-10-23T11:52:32.268452+02:00",
+    "status": "lost",
+    "match_status": "F",
+    "score": "3-6 1-6",
+    "score_perspective": "Adrian Mannarino",
+    "winner_id": "BG23",
+    "source": "https://www.atptour.com/en/scores/stats-centre/archive/2026/9410/ms006",
+    "source_match_id": "MS006",
+    "payout_sek": "0.00",
+    "net_sek": "-100.00",
+    "note": "Normal färdigspelad match verifierad på officiella ATP Stats Centre med båda ATP-ID, Almaty 2026/9410, QF MS006 och fullständigt slutresultat. Datumetiketten i ATP:s resultatlista avviker; den används inte som matchdatum. Se analysis/20261023T115002+0200/atp-result-verification.json."
+  }
+]

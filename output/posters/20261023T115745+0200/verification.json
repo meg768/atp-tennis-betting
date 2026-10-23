@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "source_file": "/Users/magnus/.codex/generated_images/01a15f92-4e69-77a0-827b-06353e250b64/exec-6ca6da52-af67-4a96-8601-8e2ac231e05b.png",
+  "poster_file": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261023T115745+0200/spelstatus.png",
+  "prompt_file": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261023T115745+0200/prompt.txt",
+  "bytes": 1936296,
+  "width": 1086,
+  "height": 1448,
+  "sha256": "763bf100251401a96d35e1f7ae93e045b4ae6e04eae6bceabba64afdf5f0ac2f",
+  "visual_check": "Granskad: två öppna spel och en ledig plats, båda matchparen, låsta Svenska Spel- och TA-odds, differenser, insatser, datum/tider, väntestatus, kontrolltid, pappersnetto −300, öppet 200, 3 avgjorda och 5 bokförda. Mannarinos förlust 3–6 1–6 och separata faktiska summor stämmer."
+}

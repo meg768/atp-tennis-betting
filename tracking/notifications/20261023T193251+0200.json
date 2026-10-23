@@ -1,0 +1,11 @@
+{
+  "check_file": "tracking/checks/20261023T193251+0200.json",
+  "checked_at": "2026-10-23T19:32:51.854404+02:00",
+  "portfolio_id": "atp-tennis-betting-20261022T000128+0200",
+  "new_bets": [],
+  "message": "Spelstatus",
+  "status": "accepted",
+  "attempted_at": "2026-10-23T19:35:21.342820+02:00",
+  "attachment": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261023T193251+0200/spelstatus.png",
+  "finished_at": "2026-10-23T19:35:24.695473+02:00"
+}

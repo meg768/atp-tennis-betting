@@ -1,0 +1,42 @@
+{
+  "h2h": [
+    {
+      "id": "2024-580-MS038-R64-M0EJ-V0DZ",
+      "winner": "V0DZ",
+      "loser": "M0EJ",
+      "score": "6-3 3-6 6-7(5) 6-3 6-0",
+      "status": "Completed",
+      "round": "R64",
+      "date": "2024-01-15",
+      "name": "Australian Open",
+      "type": "Grand Slam",
+      "surface": "Hard"
+    }
+  ],
+  "candidate_detail": [
+    {
+      "id": "M0EJ",
+      "name": "Lorenzo Musetti",
+      "rank": 26,
+      "birthdate": "2002-03-03",
+      "elo_rank_hard": 1778,
+      "career_wins": 197,
+      "career_losses": 145
+    },
+    {
+      "id": "V0DZ",
+      "name": "Luca Van Assche",
+      "rank": 48,
+      "birthdate": "2004-05-11",
+      "elo_rank_hard": 1709,
+      "career_wins": 33,
+      "career_losses": 50
+    }
+  ],
+  "candidate_probability": [
+    {
+      "p": 0.4019862342306564,
+      "ta_odds": 2.37
+    }
+  ]
+}

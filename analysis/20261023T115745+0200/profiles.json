@@ -1,0 +1,151 @@
+{
+  "sql": "SELECT id,name,`rank`,age,elo_rank_hard FROM players WHERE id IN (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",
+  "params": [
+    "AE14",
+    "BK92",
+    "BU13",
+    "C0AU",
+    "C0BH",
+    "C0E9",
+    "F0F1",
+    "FB98",
+    "GJ37",
+    "KE29",
+    "L0BV",
+    "M0EJ",
+    "M0QI",
+    "MW02",
+    "N0AE",
+    "PL56",
+    "SL28",
+    "V0DZ"
+  ],
+  "rows": [
+    {
+      "id": "AE14",
+      "name": "Daniel Altmaier",
+      "rank": 65,
+      "age": 28,
+      "elo_rank_hard": 1627
+    },
+    {
+      "id": "BK92",
+      "name": "Alexander Bublik",
+      "rank": 19,
+      "age": 29,
+      "elo_rank_hard": 1837
+    },
+    {
+      "id": "BU13",
+      "name": "Zizou Bergs",
+      "rank": 41,
+      "age": 27,
+      "elo_rank_hard": 1755
+    },
+    {
+      "id": "C0AU",
+      "name": "Francisco Cerundolo",
+      "rank": 21,
+      "age": 28,
+      "elo_rank_hard": 1840
+    },
+    {
+      "id": "C0BH",
+      "name": "Clement Chidekh",
+      "rank": 152,
+      "age": 25,
+      "elo_rank_hard": 1616
+    },
+    {
+      "id": "C0E9",
+      "name": "Flavio Cobolli",
+      "rank": 6,
+      "age": 24,
+      "elo_rank_hard": 1790
+    },
+    {
+      "id": "F0F1",
+      "name": "Arthur Fils",
+      "rank": 10,
+      "age": 22,
+      "elo_rank_hard": 1961
+    },
+    {
+      "id": "FB98",
+      "name": "Taylor Fritz",
+      "rank": 14,
+      "age": 28,
+      "elo_rank_hard": 1861
+    },
+    {
+      "id": "GJ37",
+      "name": "Tallon Griekspoor",
+      "rank": 60,
+      "age": 30,
+      "elo_rank_hard": 1741
+    },
+    {
+      "id": "KE29",
+      "name": "Karen Khachanov",
+      "rank": 25,
+      "age": 30,
+      "elo_rank_hard": 1810
+    },
+    {
+      "id": "L0BV",
+      "name": "Jiri Lehecka",
+      "rank": 20,
+      "age": 24,
+      "elo_rank_hard": 1921
+    },
+    {
+      "id": "M0EJ",
+      "name": "Lorenzo Musetti",
+      "rank": 26,
+      "age": 24,
+      "elo_rank_hard": 1778
+    },
+    {
+      "id": "M0QI",
+      "name": "Alex Michelsen",
+      "rank": 37,
+      "age": 22,
+      "elo_rank_hard": 1836
+    },
+    {
+      "id": "MW02",
+      "name": "Corentin Moutet",
+      "rank": 94,
+      "age": 27,
+      "elo_rank_hard": 1694
+    },
+    {
+      "id": "N0AE",
+      "name": "Brandon Nakashima",
+      "rank": 17,
+      "age": 25,
+      "elo_rank_hard": 1868
+    },
+    {
+      "id": "PL56",
+      "name": "Tommy Paul",
+      "rank": 15,
+      "age": 29,
+      "elo_rank_hard": 1886
+    },
+    {
+      "id": "SL28",
+      "name": "Jan-Lennard Struff",
+      "rank": 58,
+      "age": 36,
+      "elo_rank_hard": 1667
+    },
+    {
+      "id": "V0DZ",
+      "name": "Luca Van Assche",
+      "rank": 48,
+      "age": 22,
+      "elo_rank_hard": 1709
+    }
+  ]
+}

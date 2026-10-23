@@ -1,0 +1,38 @@
+[
+  {
+    "bet_id": "20261022T123506+0200-1029578799-ME82",
+    "sql": "SELECT m.id, m.event, m.round, m.winner, w.name AS winner_name, m.loser, l.name AS loser_name, m.score, m.status FROM matches m LEFT JOIN players w ON w.id=m.winner LEFT JOIN players l ON l.id=m.loser WHERE m.event=%s AND ((m.winner=%s AND m.loser=%s) OR (m.winner=%s AND m.loser=%s))",
+    "params": [
+      "2026-9410",
+      "ME82",
+      "BG23",
+      "BG23",
+      "ME82"
+    ],
+    "rows": []
+  },
+  {
+    "bet_id": "20261022T162515+0200-1029581066-C0AU",
+    "sql": "SELECT m.id, m.event, m.round, m.winner, w.name AS winner_name, m.loser, l.name AS loser_name, m.score, m.status FROM matches m LEFT JOIN players w ON w.id=m.winner LEFT JOIN players l ON l.id=m.loser WHERE m.event=%s AND ((m.winner=%s AND m.loser=%s) OR (m.winner=%s AND m.loser=%s))",
+    "params": [
+      "2026-7485",
+      "C0AU",
+      "C0BH",
+      "C0BH",
+      "C0AU"
+    ],
+    "rows": []
+  },
+  {
+    "bet_id": "20261022T222708+0200-1029592176-V0DZ",
+    "sql": "SELECT m.id, m.event, m.round, m.winner, w.name AS winner_name, m.loser, l.name AS loser_name, m.score, m.status FROM matches m LEFT JOIN players w ON w.id=m.winner LEFT JOIN players l ON l.id=m.loser WHERE m.event=%s AND ((m.winner=%s AND m.loser=%s) OR (m.winner=%s AND m.loser=%s))",
+    "params": [
+      "2026-496",
+      "V0DZ",
+      "M0EJ",
+      "M0EJ",
+      "V0DZ"
+    ],
+    "rows": []
+  }
+]

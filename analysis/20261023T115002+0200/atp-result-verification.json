@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-23T11:52:32.268452+02:00",
+  "source": "https://www.atptour.com/en/scores/stats-centre/archive/2026/9410/ms006",
+  "verification_method": "Read directly in Codex in-app browser, official ATP Stats Centre",
+  "event_id": "2026-9410",
+  "source_match_id": "MS006",
+  "round": "QF",
+  "winner_id": "BG23",
+  "winner_name": "Nikoloz Basilashvili",
+  "loser_id": "ME82",
+  "loser_name": "Adrian Mannarino",
+  "score_winner_perspective": "6-3 6-1",
+  "duration": "01:09:44",
+  "match_status": "Completed",
+  "source_text": "Game Set and Match Nikoloz Basilashvili. Nikoloz Basilashvili wins the match 6-3 6-1 .",
+  "notes": "ATP results-list accordion labels this match under 24 October although current local date and booked start are 23 October. Settlement uses the dedicated match page, both ATP-ID, edition 2026/9410, QF MS006 and explicit completed result, not the list date. Downloaded draw is an older snapshot released 22 October 19:54:19 and has no QF result; it is not settlement evidence. ATP live API returned Cloudflare HTML, not match data."
+}

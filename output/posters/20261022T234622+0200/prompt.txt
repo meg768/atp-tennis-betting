@@ -1,0 +1,35 @@
+Create one polished Swedish tennis betting experiment poster, portrait 3:4 aspect ratio, optimized for reading on a phone. Premium sports editorial design with an atmospheric dark navy and deep green tennis stadium background, subtle floodlights and court lines, and a softly lit tennis ball near the bottom edge. Three large clean stacked cards, generous spacing, crisp perfectly legible typography. Off-white text, restrained lime accents for locked odds, no logos, no player portraits, no promotional claims. All listed bets are PAPER BETS, not actual placed wagers. Give the locked odds the strongest typographic emphasis after each player name. Every Swedish label and number must be exact. No extra data, no invented scores, no missing cards.
+
+Exact content and layout:
+Header: "Tre bokförda spel"
+Subheading: "Pappersspel • 100 kr per match"
+Timestamp: "Kontrollerat 22 oktober 2026 kl. 23.46"
+
+CARD 1:
+"Adrian Mannarino"
+"mot Nikoloz Basilashvili"
+"Almaty • 23 oktober kl. 08.30"
+"Låst odds 2,18" prominently
+"TA 1,62 • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+CARD 2:
+"Francisco Cerúndolo"
+"mot Clément Chidekh"
+"Bryssel • 23 oktober kl. 14.00"
+"Låst odds 1,56" prominently
+"TA 1,21 • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+CARD 3:
+"Luca Van Assche"
+"mot Lorenzo Musetti"
+"Lyon • 23 oktober kl. 20.10"
+"Låst odds 2,90" prominently
+"TA 2,37 • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+Two compact footer totals: "Realiserat pappersnetto −200 kr" and "Öppen pappersinsats 300 kr".
+Small but readable footer: "Svensk tid. Starttiderna är preliminära. TA inkluderar 5 % marginal."
+
+Do not label these three bets as won or lost. Do not include the two earlier settled bets as cards. Keep all three statuses as waiting for start. The poster should feel like a carefully designed sports report, with the court atmosphere subordinate to the exact text.

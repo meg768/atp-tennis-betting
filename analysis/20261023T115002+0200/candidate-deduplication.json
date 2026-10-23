@@ -1,0 +1,83 @@
+{
+  "1029581066": {
+    "event_id": "2026-7485",
+    "players": [
+      "C0AU",
+      "C0BH"
+    ],
+    "already_booked": true,
+    "start": "2026-10-23T12:00:00Z"
+  },
+  "1029592176": {
+    "event_id": "2026-496",
+    "players": [
+      "M0EJ",
+      "V0DZ"
+    ],
+    "already_booked": true,
+    "start": "2026-10-23T18:10:00Z"
+  },
+  "1029593429": {
+    "event_id": "2026-7485",
+    "players": [
+      "BU13",
+      "SL28"
+    ],
+    "already_booked": false,
+    "start": "2026-10-23T17:40:00Z"
+  },
+  "1029592679": {
+    "event_id": "2026-7485",
+    "players": [
+      "F0F1",
+      "M0QI"
+    ],
+    "already_booked": false,
+    "start": "2026-10-23T16:30:00Z"
+  },
+  "1029591147": {
+    "event_id": "2026-7485",
+    "players": [
+      "GJ37",
+      "L0BV"
+    ],
+    "already_booked": false,
+    "start": "2026-10-23T14:00:00Z"
+  },
+  "1029594891": {
+    "event_id": "2026-496",
+    "players": [
+      "C0E9",
+      "N0AE"
+    ],
+    "already_booked": false,
+    "start": "2026-10-23T17:00:00Z"
+  },
+  "1029593408": {
+    "event_id": "2026-496",
+    "players": [
+      "AE14",
+      "FB98"
+    ],
+    "already_booked": false,
+    "start": "2026-10-23T13:10:00Z"
+  },
+  "1029583533": {
+    "event_id": "2026-496",
+    "players": [
+      "MW02",
+      "PL56"
+    ],
+    "already_booked": false,
+    "start": "2026-10-23T12:00:00Z"
+  },
+  "1029593409": {
+    "event_id": "2026-9410",
+    "players": [
+      "BK92",
+      "KE29"
+    ],
+    "already_booked": false,
+    "start": "2026-10-23T14:30:00Z"
+  }
+}

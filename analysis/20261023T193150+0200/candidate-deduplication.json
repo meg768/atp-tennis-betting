@@ -1,0 +1,29 @@
+{
+  "1029592176": {
+    "event_id": "2026-496",
+    "atp_ids": [
+      "M0EJ",
+      "V0DZ"
+    ],
+    "already_booked": true,
+    "scheduled_start": "2026-10-23T18:10:00Z"
+  },
+  "1029601788": {
+    "event_id": "2026-9410",
+    "atp_ids": [
+      "BG23",
+      "TE51"
+    ],
+    "already_booked": false,
+    "scheduled_start": "2026-10-24T10:00:00Z"
+  },
+  "1029593429": {
+    "event_id": "2026-7485",
+    "atp_ids": [
+      "BU13",
+      "SL28"
+    ],
+    "already_booked": false,
+    "scheduled_start": "2026-10-23T17:45:00Z"
+  }
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1029583533,
+    "event_id": "2026-496",
+    "players": [
+      "MW02",
+      "PL56"
+    ],
+    "names": [
+      "Corentin Moutet",
+      "Tommy Paul"
+    ],
+    "start": "2026-10-23T12:00:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Corentin Moutet": "3.9",
+      "Tommy Paul": "1.26"
+    },
+    "p_first_player": 0.2487592064662893,
+    "already_booked": false
+  },
+  {
+    "id": 1029581066,
+    "event_id": "2026-7485",
+    "players": [
+      "C0AU",
+      "C0BH"
+    ],
+    "names": [
+      "Francisco Cerundolo",
+      "Clement Chidekh"
+    ],
+    "start": "2026-10-23T12:00:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Francisco Cerundolo": "1.56",
+      "Clement Chidekh": "2.43"
+    },
+    "p_first_player": 0.784053683887815,
+    "already_booked": true
+  },
+  {
+    "id": 1029593408,
+    "event_id": "2026-496",
+    "players": [
+      "AE14",
+      "FB98"
+    ],
+    "names": [
+      "Taylor Fritz",
+      "Daniel Altmaier"
+    ],
+    "start": "2026-10-23T13:10:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Taylor Fritz": "1.23",
+      "Daniel Altmaier": "4.25"
+    },
+    "p_first_player": 0.7936407431881689,
+    "already_booked": false
+  },
+  {
+    "id": 1029591147,
+    "event_id": "2026-7485",
+    "players": [
+      "GJ37",
+      "L0BV"
+    ],
+    "names": [
+      "Tallon Griekspoor",
+      "Jiri Lehecka"
+    ],
+    "start": "2026-10-23T14:00:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Tallon Griekspoor": "3.15",
+      "Jiri Lehecka": "1.36"
+    },
+    "p_first_player": 0.2618909674595814,
+    "already_booked": false
+  },
+  {
+    "id": 1029593409,
+    "event_id": "2026-9410",
+    "players": [
+      "BK92",
+      "KE29"
+    ],
+    "names": [
+      "Alexander Bublik",
+      "Karen Khachanov"
+    ],
+    "start": "2026-10-23T14:30:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Alexander Bublik": "1.79",
+      "Karen Khachanov": "2.02"
+    },
+    "p_first_player": 0.5387780920571715,
+    "already_booked": false
+  },
+  {
+    "id": 1029592679,
+    "event_id": "2026-7485",
+    "players": [
+      "F0F1",
+      "M0QI"
+    ],
+    "names": [
+      "Arthur Fils",
+      "Alex Michelsen"
+    ],
+    "start": "2026-10-23T16:30:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Arthur Fils": "1.5",
+      "Alex Michelsen": "2.55"
+    },
+    "p_first_player": 0.672509643334985,
+    "already_booked": false
+  },
+  {
+    "id": 1029594891,
+    "event_id": "2026-496",
+    "players": [
+      "C0E9",
+      "N0AE"
+    ],
+    "names": [
+      "Flavio Cobolli",
+      "Brandon Nakashima"
+    ],
+    "start": "2026-10-23T17:00:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Flavio Cobolli": "2.55",
+      "Brandon Nakashima": "1.52"
+    },
+    "p_first_player": 0.389597577905311,
+    "already_booked": false
+  },
+  {
+    "id": 1029593429,
+    "event_id": "2026-7485",
+    "players": [
+      "BU13",
+      "SL28"
+    ],
+    "names": [
+      "Jan-Lennard Struff",
+      "Zizou Bergs"
+    ],
+    "start": "2026-10-23T17:40:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Jan-Lennard Struff": "2.7",
+      "Zizou Bergs": "1.46"
+    },
+    "p_first_player": 0.37599824138233284,
+    "already_booked": false
+  },
+  {
+    "id": 1029592176,
+    "event_id": "2026-496",
+    "players": [
+      "M0EJ",
+      "V0DZ"
+    ],
+    "names": [
+      "Luca Van Assche",
+      "Lorenzo Musetti"
+    ],
+    "start": "2026-10-23T18:10:00Z",
+    "state": "NOT_STARTED",
+    "market_open": true,
+    "odds": {
+      "Luca Van Assche": "2.95",
+      "Lorenzo Musetti": "1.4"
+    },
+    "p_first_player": 0.4019862342306564,
+    "already_booked": true
+  }
+]

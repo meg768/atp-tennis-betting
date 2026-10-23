@@ -1,0 +1,38 @@
+Use case: productivity-visual
+Asset type: Swedish tennis portfolio status poster for a phone push notification.
+Primary request: Create a clean, highly readable portrait poster in Swedish with three clearly separated equal cards for the three booked paper bets. Dark navy background, white typography, restrained tennis green accents. Typography is the focus; no player photos, decorative charts, or invented facts. All cards have the same status. No new-bet badge because no bets are new.
+Text (verbatim, preserve names, numbers and Swedish spelling):
+ATP – FACKSTATUS
+23 oktober 2026 · kl. 00.12 svensk tid
+Pappersportfölj · Inga nya spel
+
+FACK 1
+Adrian Mannarino
+mot Nikoloz Basilashvili
+Almaty · 23/10 kl. 08.30 (prel.)
+Spel bokfört – inväntar matchstart
+Låst odds 2,18 · Insats 100 kr
+
+FACK 2
+Francisco Cerundolo
+mot Clement Chidekh
+Bryssel · 23/10 kl. 14.00 (prel.)
+Spel bokfört – inväntar matchstart
+Låst odds 1,56 · Insats 100 kr
+
+FACK 3
+Luca Van Assche
+mot Lorenzo Musetti
+Lyon · 23/10 kl. 20.10 (prel.)
+Spel bokfört – inväntar matchstart
+Låst odds 2,90 · Insats 100 kr
+
+Avgjorda matcher: 2
+Totalt bokförda spel: 5
+Pappersnetto: −200 kr
+Öppen pappersinsats: 300 kr
+
+Bekräftade faktiska spel: netto −200 kr · öppet 0 kr
+Faktiska spel ingår även i pappersserien.
+Inga faktiska spel placeras genom denna sammanställning.
+Constraints: Include all text accurately, high contrast, generous margins, no extra claims. Use sufficiently large clear text for phone viewing.

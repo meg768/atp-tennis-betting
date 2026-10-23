@@ -1,0 +1,16 @@
+[
+  {
+    "bet_id": "20261022T162515+0200-1029581066-C0AU",
+    "checked_at": "2026-10-23T18:46:06.390768+02:00",
+    "status": "won",
+    "match_status": "F",
+    "score": "6-2 6-4",
+    "score_perspective": "Francisco Cerundolo",
+    "winner_id": "C0AU",
+    "source": "https://www.protennislive.com/posting/2026/7485/mds.pdf",
+    "source_match_id": "PDF-QF-C0BH-C0AU",
+    "payout_sek": "156.00",
+    "net_sek": "56.00",
+    "note": "Normal färdigspelad QF verifierad visuellt i officiella ATP-lottningen för Bryssel 2026-7485: Cerundolo vidare till SF med 6–2, 6–4 mot Chidekh. Spelaridentiteter kontrollerade mot ATP-ID i MariaDB. Se analysis/20261023T181407+0200/atp-result-verification.json. Pappersspel utan bekräftad faktisk insats."
+  }
+]

@@ -1,0 +1,44 @@
+Use case: productivity-visual. Create a polished Swedish tennis portfolio status poster in portrait 3:4 for a phone notification. Dark navy and deep green tennis stadium, subtle court lines and floodlights, off-white crisp typography, lime accents. Three stacked readable cards labeled Spel 1, Spel 2, Spel 3. Exactly one open paper bet and two vacant slots. No logos, player portraits, invented information or promotional claims. All Swedish text and numbers below must be rendered exactly. Ensure enough margins and footer space. Use large clear type, with precise locked odds shown side by side with TA. Do not describe any settled bet as open.
+
+Header "Spelstatus"
+Subtitle "Pappersportfölj • 100 kr per match"
+Timestamp "Kontrollerat 23 oktober 2026 kl. 18.44"
+Small text "Inga nya spel"
+
+Card 1:
+"Spel 1"
+"Luca Van Assche"
+"mot Lorenzo Musetti"
+"Lyon • 23/10 kl. 20.10"
+"Svenska Spel 2,90 | TA 2,37"
+"Diff +7,7 pp • Insats 100 kr"
+"Spel bokfört – inväntar matchstart"
+
+Card 2:
+"Spel 2"
+"Ledigt"
+"Inget nytt spel med tillräckligt tydligt värde"
+
+Card 3:
+"Spel 3"
+"Ledigt"
+"Inget nytt spel med tillräckligt tydligt värde"
+
+Prominent totals panel:
+"Pappersnetto −244 kr"
+"Öppen pappersinsats 100 kr"
+"1 vinst • 3 förluster"
+"Avgjorda matcher: 4 • Totalt bokförda spel: 5"
+
+Recent result panel, distinct from open cards:
+"Senast avgjort"
+"Cerúndolo vann mot Chidekh 6–2, 6–4"
+"Utbetalning 156 kr • Netto +56 kr"
+
+Small readable footer:
+"Bekräftat faktiskt netto −200 kr • Öppen faktisk insats 0 kr"
+"Faktiska spel ingår även i pappersserien."
+"Låsta odds. Svensk tid. Starttider preliminära."
+"TA inkluderar 5 % marginal. Diff i procentenheter."
+
+The positive +56 kr is profit for the recently settled Cerundolo PAPER bet and −244 kr is cumulative realized PAPER net across all four settled matches. Keep these quantities separate. The one open Van Assche bet is at locked odds 2,90, not current price 2,95. Vacant slots have no stakes, prices, dates or invented picks. The experiment is a report, not an advertisement.

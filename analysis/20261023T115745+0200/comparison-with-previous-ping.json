@@ -1,0 +1,92 @@
+[
+  {
+    "match_id": 1029583533,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Corentin Moutet": "3.9",
+      "Tommy Paul": "1.26"
+    },
+    "already_booked": false,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  },
+  {
+    "match_id": 1029581066,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Francisco Cerundolo": "1.56",
+      "Clement Chidekh": "2.43"
+    },
+    "already_booked": true,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  },
+  {
+    "match_id": 1029593408,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Taylor Fritz": "1.23",
+      "Daniel Altmaier": "4.25"
+    },
+    "already_booked": false,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  },
+  {
+    "match_id": 1029591147,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Tallon Griekspoor": "3.15",
+      "Jiri Lehecka": "1.36"
+    },
+    "already_booked": false,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  },
+  {
+    "match_id": 1029593409,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Alexander Bublik": "1.79",
+      "Karen Khachanov": "2.02"
+    },
+    "already_booked": false,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  },
+  {
+    "match_id": 1029592679,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Arthur Fils": "1.5",
+      "Alex Michelsen": "2.55"
+    },
+    "already_booked": false,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  },
+  {
+    "match_id": 1029594891,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Flavio Cobolli": "2.55",
+      "Brandon Nakashima": "1.52"
+    },
+    "already_booked": false,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  },
+  {
+    "match_id": 1029593429,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Jan-Lennard Struff": "2.7",
+      "Zizou Bergs": "1.46"
+    },
+    "already_booked": false,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  },
+  {
+    "match_id": 1029592176,
+    "odds_unchanged_since": "2026-10-23T11:53:32.799909+02:00",
+    "odds": {
+      "Luca Van Assche": "2.95",
+      "Lorenzo Musetti": "1.4"
+    },
+    "already_booked": true,
+    "previous_assessment": "analysis/20261023T115002+0200/assessment.md"
+  }
+]

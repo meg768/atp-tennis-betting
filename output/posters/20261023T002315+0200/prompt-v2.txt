@@ -1,0 +1,24 @@
+Use case: productivity-visual. Correct the attached Swedish tennis status poster. Retain the navy and lime green style, SPELSTATUS heading and three numbered SPEL cards. Preserve all names, match status, times, stakes, counts, results and timestamp. Reflow typography to add a clearly visible odds comparison line on EACH card: Svenska Spel (låst), TA, Diff. Both odds are the stored values at booking, not live quotes. Make text accurate and highly readable. This is an edit, attached image is the edit target. Use all following exact content:
+Spelstatus 23/10 kl. 00.23
+Pappersportfölj
+Inga nya spel.
+Spel 1: Adrian Mannarino mot Nikoloz Basilashvili
+Spel bokfört – inväntar matchstart
+Almaty, 23/10 08.30 (prel.) | 100,00 kr
+Svenska Spel (låst) 2,18 | TA 1,62 | Diff +15,9 pp
+Spel 2: Francisco Cerundolo mot Clement Chidekh
+Spel bokfört – inväntar matchstart
+Bryssel, 23/10 14.00 (prel.) | 100,00 kr
+Svenska Spel (låst) 1,56 | TA 1,21 | Diff +18,5 pp
+Spel 3: Luca Van Assche mot Lorenzo Musetti
+Spel bokfört – inväntar matchstart
+Lyon, 23/10 20.10 (prel.) | 100,00 kr
+Svenska Spel (låst) 2,90 | TA 2,37 | Diff +7,7 pp
+Pappersnetto -200,00 kr | Öppen insats 300,00 kr
+Avgjorda matcher: 2
+Totalt bokförda spel: 5
+TA inkluderar 5 % marginal. Diff anges i procentenheter, inte förväntad avkastning.
+Oddsen är låsta värden från bokföringen.
+Bekräftade faktiska spel: netto −200 kr · öppet 0 kr
+Faktiska spel ingår även i pappersserien.
+Inga faktiska spel placeras genom denna sammanställning.

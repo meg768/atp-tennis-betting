@@ -1,0 +1,1261 @@
+[
+  {
+    "event": {
+      "id": 1029578799,
+      "name": "Nikoloz Basilashvili - Adrian Mannarino",
+      "nameDelimiter": "-",
+      "englishName": "Nikoloz Basilashvili - Adrian Mannarino",
+      "homeName": "Nikoloz Basilashvili",
+      "awayName": "Adrian Mannarino",
+      "start": "2026-10-23T06:30:00Z",
+      "group": "Almaty",
+      "groupId": 2010203056,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2010203056,
+          "name": "Almaty",
+          "englishName": "Almaty",
+          "termKey": "almaty"
+        }
+      ],
+      "nonLiveBoCount": 34,
+      "sport": "TENNIS",
+      "tags": [
+        "STREAMED_WEB",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "STREAMED_MOBILE",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-9410",
+      "name": "Almaty",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2706810323,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029578799,
+      "outcomes": [
+        {
+          "id": 4384222195,
+          "label": "Nikoloz Basilashvili",
+          "englishLabel": "Nikoloz Basilashvili",
+          "odds": 1680,
+          "participant": "Nikoloz Basilashvili",
+          "type": "OT_ONE",
+          "betOfferId": 2706810323,
+          "changedDate": "2026-10-22T08:28:13Z",
+          "participantId": 1000888296,
+          "oddsFractional": "4/6",
+          "oddsAmerican": "-148",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4384222196,
+          "label": "Adrian Mannarino",
+          "englishLabel": "Adrian Mannarino",
+          "odds": 2180,
+          "participant": "Adrian Mannarino",
+          "type": "OT_TWO",
+          "betOfferId": 2706810323,
+          "changedDate": "2026-10-22T08:28:13Z",
+          "participantId": 1000316630,
+          "oddsFractional": "59/50",
+          "oddsAmerican": "118",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "BG23",
+      "ME82"
+    ],
+    "ta_probability_first": 0.41310497662089996,
+    "already_booked": true
+  },
+  {
+    "event": {
+      "id": 1029581167,
+      "name": "Stefanos Tsitsipas - James Duckworth",
+      "nameDelimiter": "-",
+      "englishName": "Stefanos Tsitsipas - James Duckworth",
+      "homeName": "Stefanos Tsitsipas",
+      "awayName": "James Duckworth",
+      "start": "2026-10-23T08:00:00Z",
+      "group": "Almaty",
+      "groupId": 2010203056,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2010203056,
+          "name": "Almaty",
+          "englishName": "Almaty",
+          "termKey": "almaty"
+        }
+      ],
+      "nonLiveBoCount": 34,
+      "sport": "TENNIS",
+      "tags": [
+        "STREAMED_WEB",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "STREAMED_MOBILE",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-9410",
+      "name": "Almaty",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2706853314,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029581167,
+      "outcomes": [
+        {
+          "id": 4384356693,
+          "label": "Stefanos Tsitsipas",
+          "englishLabel": "Stefanos Tsitsipas",
+          "odds": 1210,
+          "participant": "Stefanos Tsitsipas",
+          "type": "OT_ONE",
+          "betOfferId": 2706853314,
+          "changedDate": "2026-10-22T16:19:57Z",
+          "participantId": 1002000382,
+          "oddsFractional": "1/5",
+          "oddsAmerican": "-480",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4384356694,
+          "label": "James Duckworth",
+          "englishLabel": "James Duckworth",
+          "odds": 4350,
+          "participant": "James Duckworth",
+          "type": "OT_TWO",
+          "betOfferId": 2706853314,
+          "changedDate": "2026-10-22T16:19:57Z",
+          "participantId": 1000713561,
+          "oddsFractional": "10/3",
+          "oddsAmerican": "335",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "TE51",
+      "D994"
+    ],
+    "ta_probability_first": 0.7898441797581306,
+    "already_booked": false
+  },
+  {
+    "event": {
+      "id": 1029591496,
+      "name": "Daniil Medvedev - Terence Atmane",
+      "nameDelimiter": "-",
+      "englishName": "Daniil Medvedev - Terence Atmane",
+      "homeName": "Daniil Medvedev",
+      "awayName": "Terence Atmane",
+      "start": "2026-10-23T09:10:00Z",
+      "group": "Almaty",
+      "groupId": 2010203056,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2010203056,
+          "name": "Almaty",
+          "englishName": "Almaty",
+          "termKey": "almaty"
+        }
+      ],
+      "nonLiveBoCount": 12,
+      "sport": "TENNIS",
+      "tags": [
+        "STREAMED_WEB",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "STREAMED_MOBILE",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-9410",
+      "name": "Almaty",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2707364044,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029591496,
+      "outcomes": [
+        {
+          "id": 4385869196,
+          "label": "Daniil Medvedev",
+          "englishLabel": "Daniil Medvedev",
+          "odds": 1170,
+          "participant": "Daniil Medvedev",
+          "type": "OT_ONE",
+          "betOfferId": 2707364044,
+          "changedDate": "2026-10-22T19:51:18Z",
+          "participantId": 1002170460,
+          "oddsFractional": "1/6",
+          "oddsAmerican": "-590",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4385869197,
+          "label": "Terence Atmane",
+          "englishLabel": "Terence Atmane",
+          "odds": 5100,
+          "participant": "Terence Atmane",
+          "type": "OT_TWO",
+          "betOfferId": 2707364044,
+          "changedDate": "2026-10-22T19:51:18Z",
+          "participantId": 1004391600,
+          "oddsFractional": "4/1",
+          "oddsAmerican": "410",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "MM58",
+      "A0GC"
+    ],
+    "ta_probability_first": 0.8271780169631395,
+    "already_booked": false
+  },
+  {
+    "event": {
+      "id": 1029583533,
+      "name": "Corentin Moutet - Tommy Paul",
+      "nameDelimiter": "-",
+      "englishName": "Corentin Moutet - Tommy Paul",
+      "homeName": "Corentin Moutet",
+      "awayName": "Tommy Paul",
+      "start": "2026-10-23T12:00:00Z",
+      "group": "Lyon",
+      "groupId": 2000105652,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2000105652,
+          "name": "Lyon",
+          "englishName": "Lyon",
+          "termKey": "lyon"
+        }
+      ],
+      "nonLiveBoCount": 14,
+      "sport": "TENNIS",
+      "tags": [
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-496",
+      "name": "Lyon",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2707064653,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029583533,
+      "outcomes": [
+        {
+          "id": 4385014804,
+          "label": "Corentin Moutet",
+          "englishLabel": "Corentin Moutet",
+          "odds": 3900,
+          "participant": "Corentin Moutet",
+          "type": "OT_ONE",
+          "betOfferId": 2707064653,
+          "changedDate": "2026-10-22T06:12:25Z",
+          "participantId": 1002294721,
+          "oddsFractional": "29/10",
+          "oddsAmerican": "290",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4385057145,
+          "label": "Tommy Paul",
+          "englishLabel": "Tommy Paul",
+          "odds": 1250,
+          "participant": "Tommy Paul",
+          "type": "OT_TWO",
+          "betOfferId": 2707064653,
+          "changedDate": "2026-10-22T06:12:25Z",
+          "participantId": 1000686110,
+          "oddsFractional": "1/4",
+          "oddsAmerican": "-400",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "MW02",
+      "PL56"
+    ],
+    "ta_probability_first": 0.2487592064662893,
+    "already_booked": false
+  },
+  {
+    "event": {
+      "id": 1029581066,
+      "name": "Clement Chidekh - Francisco Cerundolo",
+      "nameDelimiter": "-",
+      "englishName": "Clement Chidekh - Francisco Cerundolo",
+      "homeName": "Clement Chidekh",
+      "awayName": "Francisco Cerundolo",
+      "start": "2026-10-23T12:00:00Z",
+      "group": "Bryssel",
+      "groupId": 2010205615,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2010205615,
+          "name": "Bryssel",
+          "englishName": "Brussels",
+          "termKey": "brussels"
+        }
+      ],
+      "nonLiveBoCount": 34,
+      "sport": "TENNIS",
+      "tags": [
+        "STREAMED_WEB",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "STREAMED_MOBILE",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-7485",
+      "name": "Brussels",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2706871062,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029581066,
+      "outcomes": [
+        {
+          "id": 4384366701,
+          "label": "Francisco Cerundolo",
+          "englishLabel": "Francisco Cerundolo",
+          "odds": 1560,
+          "participant": "Francisco Cerundolo",
+          "type": "OT_TWO",
+          "betOfferId": 2706871062,
+          "changedDate": "2026-10-22T08:24:45Z",
+          "participantId": 1003219533,
+          "oddsFractional": "11/20",
+          "oddsAmerican": "-180",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        },
+        {
+          "id": 4384366702,
+          "label": "Clement Chidekh",
+          "englishLabel": "Clement Chidekh",
+          "odds": 2430,
+          "participant": "Clement Chidekh",
+          "type": "OT_ONE",
+          "betOfferId": 2706871062,
+          "changedDate": "2026-10-22T08:24:45Z",
+          "participantId": 1003448014,
+          "oddsFractional": "7/5",
+          "oddsAmerican": "143",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "C0AU",
+      "C0BH"
+    ],
+    "ta_probability_first": 0.784053683887815,
+    "already_booked": true
+  },
+  {
+    "event": {
+      "id": 1029593408,
+      "name": "Daniel Altmaier - Taylor Fritz",
+      "nameDelimiter": "-",
+      "englishName": "Daniel Altmaier - Taylor Fritz",
+      "homeName": "Daniel Altmaier",
+      "awayName": "Taylor Fritz",
+      "start": "2026-10-23T13:10:00Z",
+      "group": "Lyon",
+      "groupId": 2000105652,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2000105652,
+          "name": "Lyon",
+          "englishName": "Lyon",
+          "termKey": "lyon"
+        }
+      ],
+      "nonLiveBoCount": 14,
+      "sport": "TENNIS",
+      "tags": [
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-496",
+      "name": "Lyon",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2707358228,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029593408,
+      "outcomes": [
+        {
+          "id": 4385889650,
+          "label": "Taylor Fritz",
+          "englishLabel": "Taylor Fritz",
+          "odds": 1250,
+          "participant": "Taylor Fritz",
+          "type": "OT_TWO",
+          "betOfferId": 2707358228,
+          "changedDate": "2026-10-22T20:06:18Z",
+          "participantId": 1001919703,
+          "oddsFractional": "1/4",
+          "oddsAmerican": "-400",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        },
+        {
+          "id": 4385889652,
+          "label": "Daniel Altmaier",
+          "englishLabel": "Daniel Altmaier",
+          "odds": 3950,
+          "participant": "Daniel Altmaier",
+          "type": "OT_ONE",
+          "betOfferId": 2707358228,
+          "changedDate": "2026-10-22T20:06:18Z",
+          "participantId": 1001697276,
+          "oddsFractional": "29/10",
+          "oddsAmerican": "295",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "FB98",
+      "AE14"
+    ],
+    "ta_probability_first": 0.7936407431881689,
+    "already_booked": false
+  },
+  {
+    "event": {
+      "id": 1029591147,
+      "name": "Tallon Griekspoor - Jiri Lehecka",
+      "nameDelimiter": "-",
+      "englishName": "Tallon Griekspoor - Jiri Lehecka",
+      "homeName": "Tallon Griekspoor",
+      "awayName": "Jiri Lehecka",
+      "start": "2026-10-23T14:00:00Z",
+      "group": "Bryssel",
+      "groupId": 2010205615,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2010205615,
+          "name": "Bryssel",
+          "englishName": "Brussels",
+          "termKey": "brussels"
+        }
+      ],
+      "nonLiveBoCount": 15,
+      "sport": "TENNIS",
+      "tags": [
+        "STREAMED_WEB",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "STREAMED_MOBILE",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-7485",
+      "name": "Brussels",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2707193174,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029591147,
+      "outcomes": [
+        {
+          "id": 4385476254,
+          "label": "Tallon Griekspoor",
+          "englishLabel": "Tallon Griekspoor",
+          "odds": 3300,
+          "participant": "Tallon Griekspoor",
+          "type": "OT_ONE",
+          "betOfferId": 2707193174,
+          "changedDate": "2026-10-22T17:52:50Z",
+          "participantId": 1002123604,
+          "oddsFractional": "23/10",
+          "oddsAmerican": "230",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4385476255,
+          "label": "Jiri Lehecka",
+          "englishLabel": "Jiri Lehecka",
+          "odds": 1330,
+          "participant": "Jiri Lehecka",
+          "type": "OT_TWO",
+          "betOfferId": 2707193174,
+          "changedDate": "2026-10-22T17:52:50Z",
+          "participantId": 1004000456,
+          "oddsFractional": "33/100",
+          "oddsAmerican": "-305",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "GJ37",
+      "L0BV"
+    ],
+    "ta_probability_first": 0.2618909674595814,
+    "already_booked": false
+  },
+  {
+    "event": {
+      "id": 1029593409,
+      "name": "Alexander Bublik - Karen Khachanov",
+      "nameDelimiter": "-",
+      "englishName": "Alexander Bublik - Karen Khachanov",
+      "homeName": "Alexander Bublik",
+      "awayName": "Karen Khachanov",
+      "start": "2026-10-23T14:30:00Z",
+      "group": "Almaty",
+      "groupId": 2010203056,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2010203056,
+          "name": "Almaty",
+          "englishName": "Almaty",
+          "termKey": "almaty"
+        }
+      ],
+      "nonLiveBoCount": 16,
+      "sport": "TENNIS",
+      "tags": [
+        "STREAMED_WEB",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "STREAMED_MOBILE",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-9410",
+      "name": "Almaty",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2707323285,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029593409,
+      "outcomes": [
+        {
+          "id": 4385886011,
+          "label": "Alexander Bublik",
+          "englishLabel": "Alexander Bublik",
+          "odds": 1780,
+          "participant": "Alexander Bublik",
+          "type": "OT_ONE",
+          "betOfferId": 2707323285,
+          "changedDate": "2026-10-22T19:53:15Z",
+          "participantId": 1002170165,
+          "oddsFractional": "10/13",
+          "oddsAmerican": "-129",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4385886012,
+          "label": "Karen Khachanov",
+          "englishLabel": "Karen Khachanov",
+          "odds": 2040,
+          "participant": "Karen Khachanov",
+          "type": "OT_TWO",
+          "betOfferId": 2707323285,
+          "changedDate": "2026-10-22T19:53:15Z",
+          "participantId": 1001498734,
+          "oddsFractional": "26/25",
+          "oddsAmerican": "104",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "BK92",
+      "KE29"
+    ],
+    "ta_probability_first": 0.5387780920571715,
+    "already_booked": false
+  },
+  {
+    "event": {
+      "id": 1029592679,
+      "name": "Arthur Fils - Alex Michelsen",
+      "nameDelimiter": "-",
+      "englishName": "Arthur Fils - Alex Michelsen",
+      "homeName": "Arthur Fils",
+      "awayName": "Alex Michelsen",
+      "start": "2026-10-23T16:30:00Z",
+      "group": "Bryssel",
+      "groupId": 2010205615,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2010205615,
+          "name": "Bryssel",
+          "englishName": "Brussels",
+          "termKey": "brussels"
+        }
+      ],
+      "nonLiveBoCount": 15,
+      "sport": "TENNIS",
+      "tags": [
+        "STREAMED_WEB",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "STREAMED_MOBILE",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-7485",
+      "name": "Brussels",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2707349501,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029592679,
+      "outcomes": [
+        {
+          "id": 4385898524,
+          "label": "Arthur Fils",
+          "englishLabel": "Arthur Fils",
+          "odds": 1450,
+          "participant": "Arthur Fils",
+          "type": "OT_ONE",
+          "betOfferId": 2707349501,
+          "changedDate": "2026-10-22T20:04:24Z",
+          "participantId": 1006066600,
+          "oddsFractional": "4/9",
+          "oddsAmerican": "-225",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4385898525,
+          "label": "Alex Michelsen",
+          "englishLabel": "Alex Michelsen",
+          "odds": 2750,
+          "participant": "Alex Michelsen",
+          "type": "OT_TWO",
+          "betOfferId": 2707349501,
+          "changedDate": "2026-10-22T20:04:24Z",
+          "participantId": 1007376354,
+          "oddsFractional": "7/4",
+          "oddsAmerican": "175",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "F0F1",
+      "M0QI"
+    ],
+    "ta_probability_first": 0.672509643334985,
+    "already_booked": false
+  },
+  {
+    "event": {
+      "id": 1029593429,
+      "name": "Jan-Lennard Struff - Zizou Bergs",
+      "nameDelimiter": "-",
+      "englishName": "Jan-Lennard Struff - Zizou Bergs",
+      "homeName": "Jan-Lennard Struff",
+      "awayName": "Zizou Bergs",
+      "start": "2026-10-23T17:40:00Z",
+      "group": "Bryssel",
+      "groupId": 2010205615,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2010205615,
+          "name": "Bryssel",
+          "englishName": "Brussels",
+          "termKey": "brussels"
+        }
+      ],
+      "nonLiveBoCount": 15,
+      "sport": "TENNIS",
+      "tags": [
+        "STREAMED_WEB",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "STREAMED_MOBILE",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-7485",
+      "name": "Brussels",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2707355151,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029593429,
+      "outcomes": [
+        {
+          "id": 4385857010,
+          "label": "Jan-Lennard Struff",
+          "englishLabel": "Jan-Lennard Struff",
+          "odds": 2800,
+          "participant": "Jan-Lennard Struff",
+          "type": "OT_ONE",
+          "betOfferId": 2707355151,
+          "changedDate": "2026-10-22T20:02:18Z",
+          "participantId": 1000785478,
+          "oddsFractional": "9/5",
+          "oddsAmerican": "180",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4385857011,
+          "label": "Zizou Bergs",
+          "englishLabel": "Zizou Bergs",
+          "odds": 1430,
+          "participant": "Zizou Bergs",
+          "type": "OT_TWO",
+          "betOfferId": 2707355151,
+          "changedDate": "2026-10-22T20:02:18Z",
+          "participantId": 1002284510,
+          "oddsFractional": "21/50",
+          "oddsAmerican": "-235",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "SL28",
+      "BU13"
+    ],
+    "ta_probability_first": 0.37599824138233284,
+    "already_booked": false
+  },
+  {
+    "event": {
+      "id": 1029592176,
+      "name": "Luca Van Assche - Lorenzo Musetti",
+      "nameDelimiter": "-",
+      "englishName": "Luca Van Assche - Lorenzo Musetti",
+      "homeName": "Luca Van Assche",
+      "awayName": "Lorenzo Musetti",
+      "start": "2026-10-23T18:10:00Z",
+      "group": "Lyon",
+      "groupId": 2000105652,
+      "path": [
+        {
+          "id": 1000093193,
+          "name": "Tennis",
+          "englishName": "Tennis",
+          "termKey": "tennis"
+        },
+        {
+          "id": 1000093324,
+          "name": "ATP",
+          "englishName": "ATP",
+          "termKey": "atp"
+        },
+        {
+          "id": 2000105652,
+          "name": "Lyon",
+          "englishName": "Lyon",
+          "termKey": "lyon"
+        }
+      ],
+      "nonLiveBoCount": 15,
+      "sport": "TENNIS",
+      "tags": [
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MATCH"
+      ],
+      "state": "NOT_STARTED"
+    },
+    "db_event": {
+      "id": "2026-496",
+      "name": "Lyon",
+      "date": "2026-10-19",
+      "type": "ATP-250",
+      "surface": "Hard"
+    },
+    "offer": {
+      "id": 2707361257,
+      "criterion": {
+        "id": 1001159551,
+        "label": "Matchodds",
+        "englishLabel": "Match Odds",
+        "order": [
+          1
+        ]
+      },
+      "betOfferType": {
+        "id": 2,
+        "name": "Match",
+        "englishName": "Match"
+      },
+      "eventId": 1029592176,
+      "outcomes": [
+        {
+          "id": 4385875541,
+          "label": "Luca Van Assche",
+          "englishLabel": "Luca Van Assche",
+          "odds": 2900,
+          "participant": "Luca Van Assche",
+          "type": "OT_ONE",
+          "betOfferId": 2707361257,
+          "changedDate": "2026-10-22T19:59:55Z",
+          "participantId": 1005932893,
+          "oddsFractional": "19/10",
+          "oddsAmerican": "190",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 0
+        },
+        {
+          "id": 4385875542,
+          "label": "Lorenzo Musetti",
+          "englishLabel": "Lorenzo Musetti",
+          "odds": 1410,
+          "participant": "Lorenzo Musetti",
+          "type": "OT_TWO",
+          "betOfferId": 2707361257,
+          "changedDate": "2026-10-22T19:59:55Z",
+          "participantId": 1004110380,
+          "oddsFractional": "2/5",
+          "oddsAmerican": "-245",
+          "status": "OPEN",
+          "cashOutStatus": "ENABLED",
+          "displayOrder": 1
+        }
+      ],
+      "tags": [
+        "OFFERED_PREMATCH",
+        "OFFERED_LIVE",
+        "BET_BUILDER",
+        "MAIN"
+      ],
+      "sortOrder": 1,
+      "cashOutStatus": "ENABLED"
+    },
+    "player_ids": [
+      "V0DZ",
+      "M0EJ"
+    ],
+    "ta_probability_first": 0.4019862342306564,
+    "already_booked": false
+  }
+]

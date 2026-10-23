@@ -1,0 +1,10 @@
+{
+  "generator": "built-in image_gen",
+  "poster_file": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261022T234622+0200/tre-bokforda-spel-v2.png",
+  "prompt_file": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261022T234622+0200/prompt-v2.txt",
+  "based_on_check": "tracking/checks/20261022T234622+0200.json",
+  "settled_matches": 2,
+  "total_registered_bets": 5,
+  "sha256": "31b2abea0cb038dee7302ca4bf94532724222051519b606f72fc5509cb87e43b",
+  "visual_check": "Den tillagda raden visar 2 avgjorda matcher och totalt 5 bokförda spel. Befintliga spel, odds, insatser, tider, status och saldo överensstämmer med föregående affisch."
+}

@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-23T18:46:06.390768+02:00",
+  "source": "https://www.protennislive.com/posting/2026/7485/mds.pdf",
+  "verification_method": "Official ATP main-draw PDF downloaded and rendered; read the QF bracket visually",
+  "source_file": "analysis/20261023T181407+0200/brussels-draw.pdf",
+  "rendered_file": "analysis/20261023T181407+0200/brussels-draw-readable.png",
+  "pdf_released_at_local": "2026-10-23T18:28:21+02:00",
+  "event_id": "2026-7485",
+  "round": "QF",
+  "winner_id": "C0AU",
+  "winner_name": "Francisco Cerundolo",
+  "loser_id": "C0BH",
+  "loser_name": "Clement Chidekh",
+  "identity_source": "analysis/20261023T181407+0200/settlement-identities.json",
+  "score_winner_perspective": "6-2 6-4",
+  "status": "Completed",
+  "note": "Brussels 19–25 October 2026 Hard, Cerundolo appears advanced into SF with 62 64 in the QF against Chidekh. No retirement or walkover annotation for this match. IDs cross-checked with database player identities. ATP live endpoint returned HTML, not usable JSON; not used for settlement."
+}

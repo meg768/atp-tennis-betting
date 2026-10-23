@@ -1,0 +1,15 @@
+{
+  "poster": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261022T233648+0200/tre-bokforda-spel.png",
+  "bytes": 1993151,
+  "dimensions": [
+    1086,
+    1448
+  ],
+  "sha256": "9201ce393b20b94e32d5549f4d1094d18d71346c54c29952ef3d87234992283c",
+  "status": "accepted",
+  "attempted_at": "2026-10-22T23:38:31.535920+02:00",
+  "sender": "pushover skill",
+  "image_generator": "built-in image_gen",
+  "prompt": "/Users/magnus/Documents/GitHub/atp-tennis-betting/output/posters/20261022T233648+0200/prompt.txt",
+  "finished_at": "2026-10-22T23:38:34.638087+02:00"
+}
